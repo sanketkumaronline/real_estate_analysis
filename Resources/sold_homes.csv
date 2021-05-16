@@ -1,0 +1,200 @@
+#,LSC,EC,St#,Street Name,Abbr,Dir,Municipality,Community,List Price,Sold Price,Type,Style,Br," ""+""",Wr,Fam,Kit,Garage Type,A/C,Heat,Contract Date,Sold Date,List Brokerage,Co op Brokerage,MLS#
+1,Sld,,38,Scarsdale,Crt,,Brampton,Bram West,"$5,99,000","$6,81,000",Att/Row/Tw,2-Storey,3,0,2,N,1,Built-,Cen,Gas,16-03-2021,23-03-2021,RE/MAX WEST,RE/MAX REALTY,W5153139
+2,Sld,,55,Corby,Cres,,Brampton,Bram West,"$5,99,900","$7,67,000",Semi-Detac,Bungalow,3,1,2,N,1,None,Cen,Oil,23-02-2021,26-02-2021,RE/MAX REAL,HOMELIFE/MIRA,W5125388
+3,Sld,,7,Manett,Cres,,Brampton,Bram West,"$6,99,000","$8,18,500",Att/Row/Tw,2-Storey,3,1,3,N,1,Attach,Cen,Gas,21-01-2021,26-01-2021,RE/MAX REAL,HOMELIFE/MIRA,W5091089
+4,Sld,,76,Fairglen,Ave,,Brampton,Bram West,"$6,99,500","$7,26,000",Semi-Detac,Bungalow,2,1,2,N,1,None,Cen,Gas,16-03-2021,17-03-2021,"EXP REALTY,",ROYALSTARRE,W5153813
+5,Sld,,121,Richwood,Cres,,Brampton,Bram West,"$6,99,900","$7,31,000",Att/Row/Tw,2-Storey,3,0,3,N,1,Built-,Cen,Gas,21-02-2021,26-02-2021,RE/MAX REAL,ROYAL LEPAGE,W5123258
+6,Sld,N,56,Spadina,Rd,,Brampton,Bram West,"$6,99,900","$7,11,000",Att/Row/Tw,2-Storey,3,0,2,N,1,Built-,Cen,Gas,09-03-2021,29-03-2021,IPRO REALTY,HOMELIFE/MIRA,W5143468
+7,Sld,,10,Ridler,Crt,,Brampton,Bram West,"$6,99,900","$7,75,000",Semi-Detac,2-Storey,3,1,2,N,1,Attach,Cen,Gas,20-04-2021,22-04-2021,HOMELIFE MA,RE/MAX REALTY,W5201812
+8,Sld,,8,Ridler,Crt,,Brampton,Bram West,"$6,99,999","$7,80,000",Detached,2-Storey,3,0,2,N,1,Attach,Cen,Gas,21-02-2021,27-02-2021,IPRO REALTY,HOMELIFE/MIRA,W5122690
+9,Sld,,19,Murray,St,,Brampton,Bram West,"$7,29,000","$7,24,000",Detached,1 1/2 Stor,2,1,2,N,1,None,Cen,Gas,24-01-2021,02-02-2021,CENTURY 21,ROYAL LEPAGE,W5093449
+10,Sld,,107,Royal Vist,Rd,,Brampton,Bram West,"$7,49,000","$8,58,000",Att/Row/Tw,2-Storey,3,1,4,N,1,Built-,Cen,Gas,14-01-2021,18-01-2021,HOMELIFE/MI,ROYAL LEPAGE,W5084970
+11,Sld,,94,Ecclestone,Dr,,Brampton,Bram West,"$7,49,000","$8,20,000",Detached,2-Storey,3,0,2,N,1,Attach,Cen,Gas,06-03-2021,07-03-2021,CENTURY 21,HOMELIFE MAPL,W5141069
+12,Sld,,8,Slater,Circ,,Brampton,Bram West,"$7,49,000","$8,80,000",Detached,Backsplit,3,1,3,y,1,Attach,Cen,Gas,22-04-2021,26-04-2021,HOMELIFE SI,CENTURY 21 LE,W5205729
+13,Sld,,21,Merrickvil,Way,,Brampton,Bram West,"$7,50,000","$9,30,000",Att/Row/Tw,2-Storey,4,0,4,y,1,Built-,Cen,Gas,18-03-2021,25-03-2021,PROPERTY MA,SUTTON GROUP,W5157476
+14,Sld,,53,Royal Orch,Dr,,Brampton,Bram West,"$7,52,500","$8,25,000",Detached,Bungalow,2,2,2,N,1,Attach,Cen,Gas,11-03-2021,25-03-2021,IPRO REALTY,RE/MAX GOLD R,W5147651
+15,Sld,,34,Pefferlaw,Circ,,Brampton,Bram West,"$7,69,500","$8,65,000",Att/Row/Tw,2-Storey,3,1,4,N,1,Built-,Cen,Gas,13-01-2021,14-01-2021,RE/MAX GOLD,HOMELIFE/MIRA,W5083558
+16,Sld,,159,Saddletree,Tr,,Brampton,Bram West,"$7,77,000","$8,90,000",Semi-Detac,2-Storey,3,0,4,y,1,Attach,Cen,Gas,17-03-2021,24-03-2021,ROYAL LEPAG,RE/MAX MILLEN,W5154975
+17,Sld,,19,October,Pl,,Brampton,Bram West,"$7,79,000","$8,44,000",Att/Row/Tw,3-Storey,3,1,4,N,1,Built-,Cen,Gas,10-02-2021,11-02-2021,IPRO REALTY,HOMELIFE MAPL,W5110391
+18,Sld,N,47,Arizona,Dr,,Brampton,Bram West,"$7,85,000","$8,15,000",Att/Row/Tw,3-Storey,3,1,4,N,1,Built-,Cen,Gas,31-01-2021,19-02-2021,RE/MAX GOLD,CENTURY 21 EM,W5106025
+19,Sld,,27,Banner,Rd,,Brampton,Bram West,"$7,89,000","$8,70,000",Detached,2-Storey,3,1,4,y,1,Attach,Cen,Gas,07-04-2021,12-04-2021,RE/MAX REAL,SAVE MAX FIRS,W5185347
+20,Sld,,39,October,Pl,,Brampton,Bram West,"$7,99,000","$8,00,000",Att/Row/Tw,3-Storey,3,1,4,N,1,Attach,Cen,Gas,28-01-2021,13-02-2021,SAVE MAX Fl,RE/MAX REALE,W5099792
+21,Sld,,11,Berringer,Grve,,Brampton,Bram West,"$7,99,000","$8,36,000",Att/Row/Tw,3-Storey,3,1,4,y,1,Built-,Cen,Gas,01-02-2021,08-02-2021,HOMELIFE/MI,"EXP REALTY, B",W5100730
+22,Sld,,9,Coastline,Dr,,Brampton,Bram West,"$7,99,000","$8,80,000",Att/Row/Tw,2-Storey,3,0,3,y,1,Attach,Cen,Gas,05-02-2021,10-02-2021,RE/MAX ESCA,CENTURY 21 PA,W5106252
+23,Sld,,100,Sky Harbou,Dr,,Brampton,Bram West,"$7,99,000","$9,00,000",Att/Row/Tw,2-Storey,3,0,4,N,1,Built-,Cen,Gas,03-03-2021,08-03-2021,COLDWELL BA,CENTURY 21 GR,W5135489
+24,Sld,,44,Arizona,Dr,,Brampton,Bram West,"$7,99,000","$8,35,000",Att/Row/Tw,3-Storey,3,1,4,N,1,Attach,Cen,Gas,24-03-2021,26-03-2021,TRIMAXX REA,HOMELIFE/MIRA,W5165505
+25,Sld,,9,October,Pl,,Brampton,Bram West,"$7,99,000","$8,22,500",Att/Row/Tw,3-Storey,3,1,4,y,1,Attach,Cen,Gas,31-03-2021,06-04-2021,RE/MAX REAL,SAVE MAX REAL,W5174822
+26,Sld,,37,Hatton,Crt,,Brampton,Bram West,"$7,99,000","$8,92,000",Att/Row/Tw,2-Storey,3,0,3,y,1,Built-,Cen,Gas,15-04-2021,19-04-2021,RE/MAX REAL,"EXP REALTY, B",W5196236
+27,Sld,,16,Horsham,St,,Brampton,Bram West,"$7,99,900","$8,20,000",Detached,2-Storey,3,2,4,y,1,Attach,Cen,Gas,06-01-2021,11-01-2021,SAVE MAX PR,SUTTON GROUP,W5077386
+28,Sld,N,5,Urbana,Rd,,Brampton,Bram West,"$7,99,900","$8,10,000",Att/Row/Tw,3-Storey,3,1,4,N,1,Built-,Cen,Gas,19-01-2021,26-01-2021,HOMELIFE TO,HOMELIFE/MIRA,W5088314
+29,Sld,,41,Royal Orch,Dr,,Brampton,Bram West,"$7,99,900","$9,00,000",Detached,Bungalow-R,2,2,2,N,1,Attach,Cen,Gas,19-03-2021,22-04-2021,RE/MAX CHAM,RE/MAX CHAMPI,W5159143
+30,Sld,,8,Isle Royal,Terr,,Brampton,Bram West,"$7,99,900","$9,22,501",Att/Row/Tw,2-Storey,3,0,3,y,1,Attach,Cen,Gas,21-03-2021,22-03-2021,SAVE MAX EL,SAVE MAX ELIT,W5161021
+31,Sld,,47,Lady Evely,Cres,,Brampton,Bram West,"$7,99,900","$9,29,500",Att/Row/Tw,2-Storey,3,0,3,y,1,Attach,Cen,Gas,24-03-2021,28-03-2021,RE/MAX REAL,UNIVERSAL REA,W5164629
+32,Sld,,10,Temple Man,Rd,,Brampton,Bram West,"$7,99,900","$9,30,000",Att/Row/Tw,2-Storey,3,0,3,y,1,Built-,Cen,Gas,27-04-2021,02-05-2021,ROYAL LEPAG,HOMELIFE G1 R,W5210920
+33,Sld,,48,English,St,,Brampton,Bram West,"$7,99,990","$872,000",Semi-Detac,Bungalow-R,3,1,2,N,1,Built-,Cen,Gas,09-02-2021,11-02-2021,SPECTRUM RE,HOMELIFE/MIRA,W5109471
+34,Sld,,61,Pefferlaw,Circ,,Brampton,Bram West,"$7,99,999","$9,09,000",Att/Row/Tw,3-Storey,3,1,4,y,1,Built-,Cen,Gas,26-02-2021,04-03-2021,HOMELIFE/MI,CENTURY 21 BE,W5129452
+35,Sld,,56,Gammon,Cres,,Brampton,Bram West,"$7,99,999","$8,78,000",Att/Row/Tw,2-Storey,4,0,3,y,1,Attach,Cen,Gas,10-03-2021,15-03-2021,HOMELIFE/MI,SAVE MAX SUPR,W5145469
+36,Sld,,22,Hubbell,Rd,,Brampton,Bram West,"$8,00,000","$10,95,000",Semi-Detac,2-Storey,4,0,4,y,1,Attach,Cen,Gas,09-04-2021,11-04-2021,RE/MAX REAL,RE/MAX REALE,W5188687
+37,Sld,,5,Berringer,Grve,,Brampton,Bram West,"$8,25,000","$8,18,000",Att/Row/Tw,3-Storey,3,1,4,N,1,Built-,Cen,Gas,07-04-2021,17-04-2021,HOMELIFE TO,TRIMAXX REALT,W5183803
+38,Sld,,88,Sky Harbou,Dr,,Brampton,Bram West,"$8,28,800","$9,30,000",Att/Row/Tw,2-Storey,3,0,4,N,1,Attach,Cen,Gas,24-03-2021,31-03-2021,KELLER WILL,CENTURY 21 LE,W5166074
+39,Sld,,102,Charcoal,Way,,Brampton,Bram West,"$8,29,900","$8,65,000",Att/Row/Tw,2-Storey,3,1,4,y,1,Attach,Cen,Gas,03-03-2021,16-03-2021,CENTURY 21,ROYAL LEPAGE,W5135362
+40,Sld,,35,     Krakow,St,,Brampton,Bram West,"$8,49,900","$8,75,000",Semi-Detac,2-Storey,4,0,3,   y,1,Built-,Cen,Gas,27-01-2021,27-01-2021,RE/MAX REAL,RE/MAX COMMUN,W5095869
+41,Sld,,37,Oliana,Way,,Brampton,Bram West,"$8,49,900","$9,20,000",Att/Row/Tw,2-Storey,3,1,3,N,1,Built-,Cen,Gas,04-03-2021,14-03-2021,RE/MAX REAL,HOMELIFE SUPE,W5136630
+42,Sld,N,101,Ecclestone,Dr,,Brampton,Bram West,"$8,49,900","$8,55,000",Detached,2-Storey,3,0,3,N,1,Attach,Cen,Gas,18-03-2021,06-04-2021,HOMELIFE CU,HOMELIFE SILV,W5157671
+43,Sld,,36,Pearman,Cres,,Brampton,Bram West,"$8,49,999","$8,85,000",Att/Row/Tw,2-Storey,3,0,3,y,1,Attach,Cen,Gas,25-01-2021,25-01-2021,SAVE MAX FO,SAVE MAX SUPR,W5094084
+44,Sld,N,9,Shediac,Rd,,Brampton,Bram West,"$8,49,999","$8,60,000",Att/Row/Tw,2-Storey,4,0,3,y,1,Attach,Cen,Gas,01-02-2021,02-02-2021,RIGHT AT HO,RIGHT AT HOME,W5100320
+45,Sld,N,100,Aspen Hill,Rd,,Brampton,Bram West,"$8,50,000","$8,50,000",Att/Row/Tw,3-Storey,3,1,3,N,1,Attach,Cen,Gas,13-02-2021,14-02-2021,RIGHT AT HO,CENTURY21 PE,W5115411
+46,Sld,,23,Krakow,St,,Brampton,Bram West,"$8,75,000","$9,35,000",Semi-Detac,2-Storey,3,1,4,N,1,Attach,Cen,Gas,06-02-2021,11-02-2021,HOMELIFE G1,HOMELIFE/MIRA,W5106953
+47,Sld,N,16,Ecclestone,Dr,,Brampton,Bram West,"$8,79,000","$8,63,000",Detached,2-Storey,3,1,3,y,2,Attach,Cen,Gas,11-03-2021,28-03-2021,IPRO REALTY,ROYAL LEPAGE,W5147922
+48,Sld,,15,Sky Harbou,Dr,,Brampton,Bram West,"$8,79,888","$9,25,100",Att/Row/Tw,2-Storey,3,0,3,y,1,Attach,Cen,Gas,13-04-2021,19-04-2021,RE/MAX ROYA,HOMELIFE/MIRA,W5191921
+49,Sld,,103,Nathaniel,Cres,,Brampton,Bram West,"$8,79,900","$9,40,000",Semi-Detac,2-Storey,4,1,4,N,1,Attach,Cen,Gas,11-03-2021,16-03-2021,HOMELIFE/MI,TRIMAXX REALT,W5147262
+50,Sld,N,39,Nathaniel,Cres,,Brampton,Bram West,"$8,79,900","$8,81,000",Semi-Detac,2-Storey,3,0,4,N,1,Built-,Cen,Gas,30-03-2021,23-04-2021,RE/MAX REAL,REALTRIUM REA,W5172414
+51,Sld,,21,Charcoal,Way,,Brampton,Bram West,"$8,79,999","$9,50,555",Semi-Detac,2-Storey,3,1,4,N,1,Built-,Cen,Gas,11-02-2021,16-02-2021,HOMELIFE MA,RE/MAX REALTY,W5111758
+52,Sld,N,14,Oakmore,Lane,,Brampton,Bram West,"$8,87,990","$8,88,000",Att/Row/Tw,3-Storey,3,0,4,y,1,Built-,Cen,Gas,02-11-2020,27-01-2021,RE/MAX REAL,CENTURY 21 PE,W4975376
+53,Sld,N,66,Millhouse,Mews,,Brampton,Bram West,"$8,88,888","$8,88,888",Att/Row/Tw,2-Storey,3,0,3,y,1,Attach,Cen,Gas,16-04-2021,24-04-2021,KELLER WILL,RIGHT AT HOME,W5198055
+54,Sld,,8654,Financial,Dr,,Brampton,Bram West,"$8,89,000","$9,85,000",Att/Row/Tw,3-Storey,4,1,4,y,1,Built-,Cen,Gas,22-02-2021,26-02-2021,RE/MAX REAL,RE/MAX REALTY,W5123837
+55,Sld,,12,Tessler,Cres,,Brampton,Bram West,"$8,89,900","$8,75,000",Semi-Detac,2-Storey,3,1,4,N,1,Built-,Cen,Gas,30-03-2021,05-04-2021,CENTURY 21,CENTURY 21 GR,W5172700
+56,Sld,,99,Nathaniel,Cres,,Brampton,Bram West,"$8,89,900","$9,50,000",Semi-Detac,2-Storey,3,1,4,y,1,Built-,Cen,Gas,31-03-2021,03-04-2021,SUTTON GROU,RE/MAX REALE,W5174063
+57,Sld,,6,Ashdale,Rd,,Brampton,Bram West,"$8,98,000","$9,85,000",Semi-Detac,2-Storey,3,1,4,y,1,Built-,Cen,Gas,28-04-2021,01-05-2021,RE/MAX MILL,ROYAL LEPAGE,W5211888
+58,Sld,N,113,Sky Harbou,Dr,,Brampton,Bram West,"$8,99,000","$9,10,000",Att/Row/Tw,2-Storey,3,1,4,y,1,Built-,Cen,Gas,31-12-2020,05-01-2021,RE/MAX REAL,ROYAL LEPAGE,W5072811
+59,Sld,,12,Dalbeattie,Dr,,Brampton,Bram West,"$8,99,000","$10,80,000",Att/Row/Tw,2-Storey,4,0,3,y,1,Built-,Non,Gas,11-02-2021,16-02-2021,HOMELIFE/MI,CITYSCAPE REA,W5112413
+60,Sld,,143,Royal Orch,Dr,,Brampton,Bram West,"$8,99,000","$9,87,000",Detached,2-Storey,3,2,4,y,1,Attach,Cen,Gas,22-02-2021,25-02-2021,RE/MAX REAL,RE/MAX MILLEN,W5123588
+61,Sld,,49,Brushwood,Dr,,Brampton,Bram West,"$8,99,000","$10,50,000",Att/Row/Tw,2-Storey,4,0,3,y,1,Built-,Cen,Gas,03-03-2021,05-03-2021,RE/MAX REAL,CITYSCAPE REA,W5134551
+62,Sld,,24,Hubbell,Rd,,Brampton,Bram West,"$8,99,000","$10,90,000",Semi-Detac,2-Storey,4,0,4,y,1,Attach,Cen,Gas,19-03-2021,20-03-2021,RE/MAX REAL,RE/MAX REALE,W5158780
+63,Sld,,12,Banner Rd,Rd,,Brampton,Bram West,"$8,99,000","$9,00,000",Detached,2-Storey,4,1,4,y,1,Attach,Cen,Gas,02-04-2021,10-04-2021,HOMELIFE/MI,CENTURY 21 PE,W5178302
+64,Sld,,111,Sky Harbou,Dr,,Brampton,Bram West,"$8,99,900","$8,90,000",Att/Row/Tw,2-Storey,3,0,3,y,1,Built-,Cen,Gas,16-01-2021,17-01-2021,RE/MAX GOLD,RE/MAX REALE,W5086122
+65,Sld,,42,Tessler,Cres,,Brampton,Bram West,"$8,99,900","$8,75,000",Semi-Detac,2-Storey,3,1,4,y,1,Built-,Cen,Gas,08-02-2021,22-02-2021,NON-TREB BO,RE/MAX REALTY,W5108521
+66,Sld,,8622,Financial,Dr,,Brampton,Bram West,"$8,99,900","$9,95,000",Att/Row/Tw,3-Storey,4,0,4,y,1,Attach,Cen,Gas,19-02-2021,20-02-2021,RE/MAX REAL,"ZOLO REALTY,",W5121512
+67,Sld,,86,Maddybeth,Cres,,Brampton,Bram West,"$8,99,900","$9,75,000",Detached,2-Storey,3,1,4,y,1,Built-,Cen,Gas,12-03-2021,12-03-2021,CITYSCAPE R,HOME LIFE/MIRA,W5148681
+68,Sld,,34,Millhouse,Mews,,Brampton,Bram West,"$8,99,988","$9,80,000",Att/Row/Tw,2-Storey,4,0,3,y,1,Built-,Cen,Gas,15-01-2021,18-01-2021,ZUMIN REAL,ZUMIN REAL ES,W5086062
+69,Sld,,46,Rising Hil,Rdge,,Brampton,Bram West,"$8,99,999","$11,00,000",Semi-Detac,2-Storey,4,2,5,y,1,Built-,Cen,Gas,16-01-2021,20-01-2021,ROYAL LEPAG,RE/MAX REALE,W5086312
+70,Sld,,2,Merrickvil,Way,,Brampton,Bram West,"$8,99,999","$10,50,000",Att/Row/Tw,2-Storey,3,1,4,y,1,Attach,Cen,Gas,27-01-2021,31-01-2021,RE/MAX REAL,CANADIAN REAL,W5095387
+71,Sld,,,Sky Harbou,Dr,,Brampton,Bram West,"$9,29,000","$10,70,000",Att/Row/Tw,2-Storey,3,0,4,y,1,Attach,Cen,Gas,06-03-2021,08-03-2021,RE/MAX REAL,TRIMAXX REALT,W5140272
+72,Sld,,43,Edinburgh,Dr,,Brampton,Bram West,"$9,50,000","$11,11,000",Semi-Detac,2-Storey,4,1,3,y,1,Attach,Cen,Gas,13-01-2021,18-01-2021,ROYAL LEPAG,RR GROUP REAL,W5083871
+73,Sld,,102,Maddybeth,Cres,,Brampton,Bram West,"$9,74,900","$9,60,000",Detached,2-Storey,3,1,4,y,1,Built-,Cen,Gas,25-03-2021,01-04-2021,HOMELIFE SU,KING REALTY I,W5167840
+74,Sld,,70,Millhouse,Mews,,Brampton,Bram West,"$9,75,000","$10,05,000",Att/Row/Tw,2-Storey,4,0,3,y,1,Built-,Cen,Gas,25-03-2021,27-03-2021,RE/MAX PROF,CENTURY 21 GR,W5166659
+75,Sld,,16,Pefferlaw,Circ,,Brampton,Bram West,"$9,79,900","$9,67,000",Semi-Detac,2-Storey,3,1,4,N,1,Built-,Cen,Gas,19-04-2021,20-04-2021,NEW AGE REA,HOMELIFE/MIRA,W5200446
+76,Sld,,40,Krakow,St,,Brampton,Bram West,"$9,89,000","$10,85,000",Detached,2-Storey,4,2,4,y,1,Attach,Cen,Gas,06-01-2021,07-01-2021,ROYAL LEPAG,TRIMAXX REALT,W5076659
+77,Sld,,52,Krakow,St,,Brampton,Bram West,"$9,89,000","$10,51,000",Detached,2-Storey,3,2,4,N,1,Attach,Cen,Gas,05-02-2021,15-02-2021,TRIMAXX REA,TRIMAXX REALT,W5106439
+78,Sld,,8644,Financial,Dr,,Brampton,Bram West,"$9,94,900","$9,75,000",Att/Row/Tw,3-Storey,4,1,4,y,1,Attach,Cen,Gas,01-03-2021,09-03-2021,CENTURY 21,"EXP REALTY, B",W5132256
+79,Sld,,42,Rising Hil,Rdge,,Brampton,Bram West,"$9,98,888","$11,50,888",Semi-Detac,2-Storey,4,2,5,y,1,Built-,Cen,Gas,02-02-2021,02-02-2021,SAM MCDADI,RE/MAX REALTY,W5101183
+80,Sld,,41,Amboise,Cres,,Brampton,Bram West,"$9,99,000","$9,80,000",Detached,2-Storey,3,1,4,y,1,Attach,Cen,Gas,14-02-2021,23-02-2021,HOMELIFE G1,HOMELIFE/MIRA,W5117088
+81,Sld,,22,Dalbeattie,Dr,,Brampton,Bram West,"$9,99,900","$10,55,000",Att/Row/Tw,2-Storey,4,0,3,y,1,Attach,Cen,Gas,02-04-2021,07-04-2021,RE/MAX REAL,HOMELIFE/MIRA,W5177928
+82,Sld,,63,Polonia,Ave,,Brampton,Bram West,"$9,99,900","$10,35,000",Detached,2-Storey,3,0,3,N,1,Built-,Cen,Gas,08-04-2021,09-04-2021,NEW AGE REA,NEW AGE REAL,W5186439
+83,Sld,,43,Charcoal,Way,,Brampton,Bram West,"$9,99,900","$11,75,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,30-04-2021,03-05-2021,RE/MAX REAL,CENTURY 21 IN,W5215758
+84,Sld,,18,Millhouse,Mews,,Brampton,Bram West,"$9,99,901","$11,50,000",Att/Row/Tw,2-Storey,4,2,5,y,1,Attach,Cen,Gas,10-02-2021,15-02-2021,RE/MAX GOLD,EXECUTIVE REA,W5111417
+85,Sld,,13,Hubbell,Rd,,Brampton,Bram West,"$9,99,999","$10,75,000",Semi-Detac,2-Storey,4,1,4,y,1,Attach,Cen,Gas,26-03-2021,05-04-2021,ROYAL LEPAG,RIGHT AT HOME,W5168780
+86,Sld,,25,Grover,Rd,,Brampton,Bram West,"$9,99,999","$12,10,000",Detached,2-Storey,4,2,4,N,1,Built-,Cen,Gas,07-04-2021,12-04-2021,KING REALTY,CENTURY 21 PE,W5183253
+87,Sld,,18,Perdita,Rd,,Brampton,Bram West,"$10,49,900","$12,55,000",Semi-Detac,2-Storey,4,1,5,N,1,Attach,Cen,Electr,31-03-2021,04-04-2021,SUTTON GROU,RE/MAX REALE,W5174220
+88,Sld,,8,Dancing Wa,Rd,,Brampton,Bram West,"$10,49,999","$11,30,000",Semi-Detac,2-Storey,4,2,4,y,1,Attach,Cen,Gas,08-02-2021,09-02-2021,RE/MAX REAL,RE/MAX GOLD R,W5108282
+89,Sld,,14,Ness,Rd,,Brampton,Bram West,"$10,50,000","$11,20,000",Detached,2-Storey,3,1,4,y,1,Built-,Cen,Gas,19-02-2021,23-02-2021,RE/MAX REAL,HOMELIFE/MIRA,W5121100
+90,Sld,,29,Fallharves,Ave,,Brampton,Bram West,"$10,95,000","$11,80,000",Detached,2-Storey,3,1,4,y,1,Attach,Cen,Gas,09-04-2021,11-04-2021,CENTURY 21,HOMELIFE MAPL,W5187199
+91,Sld,,24,Fallharves,Ave,,Brampton,Bram West,"$10,95,000","$10,95,000",Detached,2-Storey,3,0,4,y,1,Attach,Cen,Gas,29-04-2021,04-05-2021,KELLER WILL,HOMELIFE/FUTU,W5214493
+92,Sld,,27,Fahey,Dr,,Brampton,Bram West,"$10,99,000","$13,00,000",Detached,2-Storey,4,1,5,y,1,Carpor,Cen,Gas,25-02-2021,01-03-2021,ROYAL LEPAG,HOMELIFE G1 R,W5128440
+93,Sld,,55,Hubbell,Rd,,Brampton,Bram West,"$10,99,000","$11,50,000",Semi-Detac,2-Storey,4,2,4,N,1,Built-,Cen,Gas,09-03-2021,22-03-2021,RE/MAX REAL,RE/MAX REALE,W5144054
+94,Sld,,20,Goldnugget,Rd,,Brampton,Bram West,"$10,99,900","$12,30,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,12-02-2021,16-02-2021,ROYAL LEPAG,SUTTON GROUP,W5114843
+95,Sld,,4,Pergola,Way,,Brampton,Bram West,"$10,99,900","$11,85,000",Detached,2-Storey,4,0,3,y,1,Built-,Cen,Gas,06-03-2021,09-03-2021,RE/MAX REAL,RE/MAX REALTY,W5140520
+96,Sld,,18,Stephanie,Ave,,Brampton,Bram West,"$10,99,900","$10,90,000",Detached,2-Storey,3,1,4,y,1,Attach,Cen,Gas,19-04-2021,07-05-2021,HOME VISION,NON-TRREB BOA,W5200247
+97,Sld,,8,Maddybeth,Cres,,Brampton,Bram West,"$10,99,900","$12,20,000",Detached,2-Storey,4,2,5,y,1,Built-,Cen,Gas,23-04-2021,27-04-2021,CLOUD REALT,RE/MAX REALE,W5206432
+98,Sld,,73,Pantomine,Blvd,,Brampton,Bram West,"$11,39,900","$10,95,000",Detached,2-Storey,4,1,4,y,1,Attach,Cen,Gas,19-03-2021,29-03-2021,ROYAL STAR,INTERCITY REA,W5159483
+99,Sld,,34,Tatra,Cres,,Brampton,Bram West,"$11,49,900","$11,25,000",Detached,2-Storey,4,1,4,y,1,Built-,Cen,Gas,15-04-2021,16-04-2021,CENTURY 21,RIGHT AT HOME,W5195298
+100,Sld,,4,Fallharves,Ave,,Brampton,Bram West,"$11,49,900","$11,85,000",Detached,2-Storey,4,2,4,y,2,Built-,Cen,Gas,22-04-2021,28-04-2021,HOMELIFE SU,HOMELIFE/FUTU,W5204863
+101,Sld,,20,Oblate,Cres,,Brampton,Bram West,"$11,50,000","$11,20,000",Detached,2-Storey,4,1,4,N,1,Built-,Cen,Gas,12-03-2021,23-03-2021,RE/MAX REAL,RE/MAX REALE,W5149238
+102,Sld,,4,Ferdinand,Dr,,Brampton,Bram West,"$11,99,000","$13,50,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,06-01-2021,14-01-2021,SPECTRUM RE,HOMELIFE/MIRA,W5077097
+103,Sld,,28,Taira,Cres,,Brampton,Bram West,"$11,99,000","$12,60,000",Detached,2-Storey,4,1,5,N,1,Attach,Cen,Gas,22-01-2021,27-01-2021,KING REALTY,CENTURY 21 SM,W5092152
+104,Sld,,2,Young,Dr,,Brampton,Bram West,"$11,99,000","$13,00,000",Detached,2-Storey,4,2,6,y,1,Attach,Cen,Gas,09-02-2021,15-02-2021,HOMELIFE SU,HOMELIFE SUPE,W5109656
+105,Sld,,6,Mussle Whi,Rd,,Brampton,Bram West,"$11,99,000","$13,75,000",Detached,2-Storey,4,2,4,y,1,Attach,Cen,Gas,25-02-2021,02-03-2021,BMC CASA RE,RE/MAX REALE,W5128134
+106,Sld,N,40,Ness,Rd,,Brampton,Bram West,"$11,99,900","$12,75,000",Detached,2-Storey,5,2,5,y,1,Built-,Cen,Gas,28-01-2021,02-02-2021,RE/MAX REAL,RE/MAX REALE,W5096850
+107,Sld,,3,Grover,Rd,,Brampton,Bram West,"$11,99,900","$11,90,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,02-02-2021,04-02-2021,CENTURY 21,CENTURION REA,W5101367
+108,Sld,,28,Nomad,Cres,,Brampton,Bram West,"$11,99,900","$12,80,000",Detached,2-Storey,4,2,4,y,1,Detach,Cen,Gas,13-03-2021,30-03-2021,RE/MAX REAL,RE/MAX GOLD R,W5150616
+109,Sld,,2,lnder Heig,Dr,,Brampton,Bram West,"$12,00,000","$11,43,200",Detached,Bungaloft,3,2,2,N,1,Detach,Cen,Gas,18-01-2021,19-01-2021,CENTURY 21,CENTURY 21 GR,W5088813
+110,Sld,,9,Seapines,St,,Brampton,Bram West,"$12,00,000","$12,65,000",Detached,Bungalow,3,2,3,y,1,Detach,Cen,Gas,26-02-2021,01-03-2021,ROYAL LEPAG,FALCONVIEW RE,W5129536
+111,Sld,,27,Geranium,Cres,,Brampton,Bram West,"$12,49,000","$13,75,000",Detached,2-Storey,4,1,5,y,1,Attach,Cen,Gas,01-02-2021,05-02-2021,ROYAL LEPAG,EVEREST REALT,W5100679
+112,Sld,,379,Royal West,Dr,E,Brampton,Bram West,"$12,49,000","$12,90,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,03-02-2021,03-02-2021,INTERCITY R,ROYAL CANADIA,W5102654
+113,Sld,,24,Maddybeth,Cres,,Brampton,Bram West,"$12,49,000","$13,25,000",Detached,2-Storey,4,2,4,y,1,Built-,Cen,Gas,19-02-2021,22-02-2021,CENTURY 21,RE/MAX GOLD R,W5121244
+114,Sld,,17,Cooperage,St,,Brampton,Bram West,"$12,69,000","$12,69,000",Detached,2-Storey,4,0,3,y,1,Built-,Cen,Gas,10-01-2021,13-01-2021,RIGHT AT HO,"EXP REALTY, B",W5081256
+115,Sld,,92,Little Bri,Cres,,Brampton,Bram West,"$12,99,700","$15,00,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,08-03-2021,08-03-2021,ROYAL LEPAG,ROYAL LEPAGE,W5144276
+116,Sld,,44,Stephanie,Ave,,Brampton,Bram West,"$12,99,900","$12,85,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,12-02-2021,25-02-2021,RE/MAX REAL,RE/MAX GOLD R,W5113402
+117,Sld,,57,Clementine,Dr,,Brampton,Bram West,"$12,99,900","$13,46,000",Detached,2-Storey,4,1,5,y,1,Attach,Cen,Gas,16-03-2021,18-03-2021,RE/MAX REAL,RE/MAX REALE,W5153988
+118,Sld,,478,    Rivermont      ,Rd,,Brampton,Bram West,"$12,99,900","$15,10,055",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,16-03-2021,21-03-2021,CITYSCAPE R,TRIMAXX REALT,W5154162
+119,Sld,,1205,Martin's      ,Blvd,,Brampton,Bram West,"$12,99,900","$13,90,000",Detached,2-Storey,4,0,3,N,1,Built-,Cen,Gas,29-03-2021,31-03-2021,KELLER WILL,RE/MAX GOLD R,W5171366
+120,Sld,,20,Kawana,Rd,,Brampton,Bram West,"$12,99,900","$14,10,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,15-04-2021,19-04-2021,RE/MAX REAL,RE/MAX REALTY,W5195593
+121,Sld,,18,Dancing Wa,Rd,,Brampton,Bram West,"$13,29,900","$15,20,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,18-02-2021,19-02-2021,CENTURY 21,ROYAL LEPAGE,W5119658
+122,Sld,,20,Cooperage,St,,Brampton,Bram West,"$13,48,000","$14,70,000",Detached,2-Storey,4,2,6,y,1,Attach,Cen,Gas,30-04-2021,11-05-2021,RE/MAX REAL,WORLD CLASS R,W5215063
+123,Sld,,39,Noble Oaks,Rd,,Brampton,Bram West,"$13,49,000","$14,50,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,13-02-2021,15-02-2021,CENTURY 21,CENTURY 21 PE,W5114765
+124,Sld,,36,Noranda,Gres,,Brampton,Bram West,"$13,49,900","$14,60,000",Detached,2-Storey,4,1,4,y,1,Attach,Cen,Gas,17-02-2021,21-02-2021,REALTY EXEC,SAVE MAX SUPR,W5117397
+125,Sld,,8,Monument,Tr,,Brampton,Bram West,"$13,99,000","$14,05,000",Detached,Bungaloft,3,1,3,y,1,Attach,Cen,Gas,06-01-2021,05-02-2021,RE/MAX REAL,RIGHT AT HOME,W5076557
+126,Sld,,8047,Financial,Dr,,Brampton,Bram West,"$13,99,000","$13,99,000",Detached,2-Storey,4,1,4,y,1,Attach,Cen,Gas,10-02-2021,24-02-2021,RE/MAX GOLD,RE/MAX GOLD R,W5111310
+127,Sld,,445,Riverman!,Rd,W,Brampton,Bram West,"$13,99,000","$15,30,000",Detached,2-Storey,5,0,5,y,1,Attach,Cen,Gas,18-03-2021,19-03-2021,RE/MAX REAL,RE/MAX REALE,W5159707
+128,Sld,,37,Noble Oaks,Rd,,Brampton,Bram West,"$13,99,000","$13,80,000",Detached,2-Storey,4,1,4,y,1,Built-,Cen,Gas,30-03-2021,01-04-2021,CITYSCAPE R,HOMELIFE MAPL,W5173062
+129,Sld,N,51,Messina,Ave,,Brampton,Bram West,"$13,99,900","$14,20,000",Detached,2-Storey,4,1,4,y,1,Built-,Cen,Gas,11-03-2021,13-03-2021,RE/MAX REAL,RE/MAX PROFES,W5147855
+130,Sld,,14,Fahey,Dr,,Brampton,Bram West,"$13,99,900","$14,51,001",Detached,2-Storey,4,1,4,y,1,Attach,Cen,Gas,17-03-2021,21-03-2021,RE/MAX REAL,SUTTON GROUP,W5155631
+131,Sld,,18,Prairie Cr,Gres,,Brampton,Bram West,"$13,99,900","$15,15,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,18-03-2021,23-03-2021,ROYAL LEPAG,"EXP REALTY, B",W5157113
+132,Sld,,6,Gosling,St,,Brampton,Bram West,"$14,00,000","$14,00,000",Detached,2-Storey,4,0,5,y,1,Built-,Cen,Gas,16-02-2021,17-02-2021,EXECUTIVE R,EXECUTIVE REA,W5116758
+133,Sld,,6,Prairie Cr,Gres,,Brampton,Bram West,"$14,00,000","$15,40,000",Detached,2-Storey,5,0,3,y,1,Attach,Cen,Gas,07-03-2021,12-03-2021,RE/MAX REAL,TRIMAXX REALT,W5141021
+134,Sld,,80,Grouse,Lane,,Brampton,Bram West,"$14,29,000","$14,71,500",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,19-02-2021,23-02-2021,SUTTON GROU,RE/MAX REALE,W5121026
+135,Sld,,74,Grouse,Lane,,Brampton,Bram West,"$14,29,900","$14,56,000",Detached,2-Storey,4,2,4,y,1,Attach,Cen,Gas,28-04-2021,05-05-2021,HOMELIFE/MI,RIGHT AT HOME,W5211764
+136,Sld,,188,Coastline,Dr,,Brampton,Bram West,"$14,50,000","$14,35,000",Detached,2-Storey,4,0,5,y,1,Attach,Cen,Gas,22-01-2021,02-02-2021,RE/MAX REAL,NEWGEN REALTY,W5091475
+137,Sld,,10,Olivia Mar,Rd,,Brampton,Bram West,"$14,50,000","$14,45,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,24-02-2021,04-03-2021,ROYAL LEPAG,HOMELIFE/MIRA,W5126453
+138,Sld,,48,Howland,Gres,,Brampton,Bram West,"$14,59,999","$14,60,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,02-03-2021,03-03-2021,KING REALTY,KING REALTY I,W5133780
+139,Sld,N,1604,Hailstone,Rd,,Brampton,Bram West,"$14,79,000","$15,50,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,03-03-2021,03-12-2021,SUTTON GROU,PROPERLY HOME,W5134970
+140,Sld,,22,Grouse,Lane,,Brampton,Bram West,"$14,95,000","$16,00,000",Detached,2-Storey,5,0,4,y,1,Built-,Cen,Gas,13-02-2021,16-02-2021,ROYAL LEPAG,RE/MAX REALTY,W5114967
+141,Sld,,51,Elysian Fi,Gire,,Brampton,Bram West,"$14,99,000","$16,01,000",Detached,2-Storey,4,3,6,y,1,Attach,Cen,Gas,14-01-2021,18-01-2021,STREET MAST,RE/MAX REALE,W5084593
+142,Sld,,8,Point Reye,Terr,,Brampton,Bram West,"$14,99,000","$16,00,000",Detached,2-Storey,4,1,6,y,1,Built-,Cen,Gas,08-02-2021,14-02-2021,KELLER WILL,HOMELIFE/MIRA,W5108992
+143,Sld,,24,Twin Falls,Rd,,Brampton,Bram West,"$14,99,000","$15,60,000",Detached,2-Storey,5,2,5,y,1,Attach,Cen,Gas,16-02-2021,20-02-2021,HOMELIFE G1,ROYAL CANADIA,W5117135
+144,Sld,,24,Coin,St,,Brampton,Bram West,"$14,99,000","$14,85,000",Detached,2-Storey,4,2,5,y,1,Attach,Cen,Gas,06-03-2021,03-08-2021,CENTURY 21,RE/MAX REALTY,W5140511
+145,Sld,,42,Messina,Ave,,Brampton,Bram West,"$14,99,000","$15,50,000",Detached,2-Storey,4,1,5,y,1,Built-,Cen,Gas,09-04-2021,17-04-2021,SAVE MAX SU,RE/MAX CHAMPI,W5188210
+146,Sld,,69,Sky Harbou,Dr,,Brampton,Bram West,"$14,99,000","$17,60,000",Detached,2-Storey,4,3,6,y,1,Attach,Cen,Gas,24-04-2021,05-01-2021,HOMELIFE/MI,WORLD CLASS R,W5207953
+147,Sld,,7,Edmonton,St,,Brampton,Bram West,"$14,99,900","$17,12,500",Detached,2-Storey,4,2,6,y,1,Attach,Cen,Gas,26-01-2021,28-01-2021,CENTURY 21,RE/MAX REALE,W5094587
+148,Sld,,42,Mountain R,Rd,,Brampton,Bram West,"$14,99,900","$15,35,000",Detached,2-Storey,4,0,5,y,1,Attach,Cen,Gas,05-02-2021,02-08-2021,RE/MAX REAL,RE/MAX REALE,W5105769
+149,Sld,,52,Mediterran,Gres,,Brampton,Bram West,"$14,99,900","$15,75,000",Detached,2-Storey,4,2,6,y,1,Built-,Cen,Gas,03-03-2021,03-06-2021,RE/MAX REAL,IPRO REALTY L,W5134923
+150,Sld,,7,Stonecrop,Rd,,Brampton,Bram West,"$14,99,900","$18,20,000",Detached,2-Storey,5,1,5,y,1,Built-,Cen,Gas,30-03-2021,04-01-2021,ROYAL LEPAG,CENTURY 21 PE,W5173600
+151,Sld,,1,Lower Tham,Dr,,Brampton,Bram West,"$14,99,900","$15,30,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,22-04-2021,26-04-2021,CENTURY 21,RIGHT AT HOME,W5204841
+152,Sld,,1607,Hailstone,Rd,,Brampton,Bram West,"$15,19,000","$15,01,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,24-02-2021,03-04-2021,RE/MAX REAL,CITYSCAPE REA,W5126846
+153,Sld,,14,Mountain R,Rd,,Brampton,Bram West,"$15,30,000","$15,50,000",Detached,2-Storey,4,1,5,y,1,Built-,Cen,Gas,19-03-2021,21-03-2021,RE/MAX REAL,RE/MAX REALE,W5159043
+154,Sld,,25,Vineyard,Dr,,Brampton,Bram West,"$15,39,900","$17,25,000",Detached,2-Storey,5,3,6,y,1,Attach,Cen,Gas,31-03-2021,04-08-2021,RE/MAX REAL,PROPERTY MAX,W5174114
+155,Sld,,8,Rising Hil,Rdge,,Brampton,Bram West,"$15,49,000","$16,30,000",Detached,2-Storey,4,2,6,y,1,Attach,Cen,Gas,17-02-2021,26-02-2021,RE/MAX GOLD,RE/MAX REALTY,W5118644
+156,Sld,,6,Legendary,Gire,,Brampton,Bram West,"$15,75,000","$17,00,000",Detached,2-Storey,5,0,5,y,1,Attach,Cen,Gas,24-03-2021,29-03-2021,RE/MAX REAL,ROYAL STAR RE,W5164945
+157,Sld,,1,Messina    ,Ave,,Brampton,Bram West,"$15,95,000","$15,95,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,15-02-2021,17-02-2021,ROYALLEPAG,HOMELIFE/MIRA,W5115645
+158,Sld,,9,Noranda,Cres,,Brampton,Bram West,"$15,95,900","$16,70,000",Detached,2-Storey,5,2,6,y,1,Built-,Cen,Gas,01-03-2021,01-03-2021,SELECT GROU,RIGHT AT HOME,W5131831
+159,Sld,,,Twin Falls,Rd,W,Brampton,Bram West,"$15,97,577","$16,50,000",Detached,2-Storey,4,3,6,y,1,Built-,Cen,Gas,24-03-2021,30-03-2021,ROYAL STAR,ROYAL LEPAGE,W5166221
+160,Sld,,147,Coastline,Dr,,Brampton,Bram West,"$15,99,000","$15,82,000",Detached,Bungalow,3,2,3,y,1,Attach,Cen,Gas,28-02-2021,05-04-2021,RE/MAX REAL,CENTURY 21 LE,W5130981
+161,Sld,,26,Wardsville,Dr,,Brampton,Bram West,"$15,99,000","$19,15,000",Detached,2-Storey,4,1,6,y,1,Built-,Cen,Gas,24-04-2021,02-05-2021,HOMELIFE MA,CENTURY 21 IN,W5207915
+162,Sld,,92,Nova Scoti,Rd,,Brampton,Bram West,"$15,99,900","$16,85,000",Detached,2-Storey,4,0,5,y,1,Built-,Cen,Gas,12-02-2021,18-02-2021,RE/MAX REAL,HOMELIFE/MIRA,W5113833
+163,Sld,,7,Clute Spri,Crt,,Brampton,Bram West,"$15,99,900","$16,81,000",Detached,2-Storey,5,0,5,y,1,Built-,Cen,Gas,15-03-2021,20-03-2021,CENTURY 21,KING REALTY I,W5151566
+164,Sld,,8,Xavier,Crt,,Brampton,Bram West,"$15,99,900","$16,00,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,25-03-2021,31-03-2021,ROYAL LEPAG,ROYAL LEPAGE,W5167256
+165,Sld,,4,Mugford,Cres,,Brampton,Bram West,"$15,99,900","$15,60,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,19-04-2021,21-04-2021,NEW VENTURE,KELLER WILLIA,W5200774
+166,Sld,,59,Mountain R,Rd,,Brampton,Bram West,"$15,99,900","$16,20,000",Detached,2-Storey,4,1,5,N,1,Built-,Cen,Gas,05-05-2021,09-05-2021,RE/MAX ABOU,COLDWELL BANK,W5221276
+167,Sld,,89,Coastline,Dr,,Brampton,Bram West,"$15,99,999","$17,50,000",Detached,2-Storey,5,0,4,y,1,Attach,Cen,Gas,21-04-2021,24-04-2021,KINGSWAY RE,SUTTON GROUP,W5204229
+168,Sld,N,11,Mcnutt,St,,Brampton,Bram West,"$16,00,000","$15,70,000",Detached,Bungalow,3,1,4,y,1,Built-,Cen,Gas,30-01-2021,04-02-2021,ROYAL LEPAG,HOME VISION R,W5098920
+169,Sld,,1,Tristan,Crt,,Brampton,Bram West,"$16,00,000","$16,84,000",Detached,Bungaloft,3,0,3,y,1,Built-,Cen,Gas,01-05-2021,07-05-2021,ROYAL LEPAG,RE/MAX REALTY,W5216980
+170,Sld,,74,Elysian Fi,Circ,,Brampton,Bram West,"$16,49,900","$17,00,000",Detached,2-Storey,4,1,5,y,1,Attach,Cen,Gas,04-02-2021,14-02-2021,RE/MAX REAL,HOMELIFE/MIRA,W5104549
+171,Sld,,9,Larande,Crt,,Brampton,Bram West,"$16,49,900","$15,80,000",Detached,2-Storey,4,1,5,y,1,Built-,Cen,Gas,25-03-2021,05-04-2021,RE/MAX REAL,RE/MAX REALE,W5167288
+172,Sld,N,10,Xavier,Crt,,Brampton,Bram West,"$16,61,618","$16,00,000",Detached,2-Storey,4,0,4,y,1,Built-,Cen,Gas,12-04-2021,08-05-2021,ROYAL LEPAG,ROYAL LEPAGE,W5191368
+173,Sld,,9,Lower Tham,Dr,,Brampton,Bram West,"$16,79,000","$16,57,000",Detached,2-Storey,5,1,4,y,1,Attach,Cen,Gas,16-03-2021,31-03-2021,HIGHLAND RE,SALERNO REALT,W5154552
+174,Sld,,35,Legendary,Circ,,Brampton,Bram West,"$16,90,000","$16,80,000",Detached,2-Storey,4,0,4,y,1,Attach,Cen,Gas,20-03-2021,25-03-2021,RE/MAX REAL,RE/MAX REALTY,W5160719
+175,Sld,,47,Shediac,Rd,,Brampton,Bram West,"$16,99,000","$17,00,000",Detached,2-Storey,5,3,6,y,1,Attach,Cen,Gas,03-04-2021,11-04-2021,SAVE MAX RE,EXECUTIVE REA,W5178849
+176,Sld,,46,Dancing Wa,Rd,,Brampton,Bram West,"$16,99,900","$16,80,000",Detached,2-Storey,4,2,6,y,1,Built-,Cen,Gas,17-03-2021,22-03-2021,RE/MAX REAL,CENTURY 21 GR,W5154741
+177,Sld,,45,Elysian Fi,Circ,,Brampton,Bram West,"$16,99,999","$18,11,000",Detached,2-Storey,5,2,5,y,1,Attach,Cen,Gas,29-03-2021,07-04-2021,HOMELIFE/MI,NON-TRREB BOA,W5171031
+178,Sld,N,133,Sky Harbou,Dr,,Brampton,Bram West,"$17,49,000","$17,00,000",Detached,2-Storey,4,0,5,y,1,Built-,Cen,Gas,25-03-2021,07-04-2021,BAY STREET,ROYAL LEPAGE,W5166323
+179,Sld,,32,Black Bear,Tr,,Brampton,Bram West,"$17,49,900","$17,45,100",Detached,2-Storey,5,2,6,y,1,Built-,Cen,Gas,10-03-2021,15-03-2021,CENTURY 21,HOMELIFE/MIRA,W5144709
+180,Sld,,12,Boundary C,Path,,Brampton,Bram West,"$17,49,905","$16,75,000",Detached,2-Storey,4,1,4,y,1,Built-,Cen,Gas,16-02-2021,16-03-2021,RE/MAX REAL,SAVE MAX ELIT,W5116310
+181,Sld,,4,Clute Spri,Crt,,Brampton,Bram West,"$17,49,999","$17,20,000",Detached,2-Storey,5,0,4,y,1,Attach,Cen,Gas,27-04-2021,02-05-2021,STONECASTLE,STONECASTLE R,W5211040
+182,Sld,,49,Isle Royal,Terr,,Brampton,Bram West,"$17,99,900","$17,80,000",Detached,2-Storey,4,1,5,y,1,Attach,Cen,Gas,16-03-2021,25-03-2021,HOME VISION,HOME VISION R,W5153874
+183,Sld,,10,Mugford,Cres,,Brampton,Bram West,"$17,99,999","$17,90,000",Detached,2-Storey,5,3,6,y,1,Attach,Cen,Gas,04-03-2021,01-04-2021,HOMELIFE G1,HOMELIFE SUPE,W5138026
+184,Sld,,8649,Mississaug,Rd,,Brampton,Bram West,"$18,95,000","$17,90,000",Detached,Bungalow,3,1,3,N,1,Attach,Cen,Gas,10-02-2021,26-02-2021,RE/MAX REAL,KING REALTY I,W5110439
+185,Sld,,7749,Churchvill,Rd,,Brampton,Bram West,"$19,00,000","$18,30,000",Detached,2-Storey,3,0,2,y,1,Detach,Cen,Gas,05-01-2021,19-01-2021,RE/MAX REAL,RE/MAX REALE,W5075933
+186,Sld,,8586,Mississaug,Rd,,Brampton,Bram West,"$19,49,000","$19,00,000",Detached,Sidesplit,4,1,4,y,1,Detach,Cen,Gas,18-01-2021,28-01-2021,RE/MAX REAL,HOMELIFE/MIRA,W5086838
+187,Sld,,9,Port Hope,Hllw,,Brampton,Bram West,"$19,49,900","$19,00,000",Detached,2-Storey,5,0,4,y,1,Built-,Cen,Gas,17-01-2021,25-01-2021,ROYAL STAR,EXECUTIVE REA,W5088391
+188,Sld,N,3,Port Hope,Hllw,,Brampton,Bram West,"$19,88,000","$19,50,000",Detached,2-Storey,4,3,6,y,1,Built-,Cen,Gas,29-01-2021,02-02-2021,RE/MAX REAL,RE/MAX REALE,W5097959
+189,Sld,,42,Dancing Wa,Rd,,Brampton,Bram West,"$19,99,000","$20,00,000",Detached,2-Storey,5,2,7,y,1,Attach,Cen,Gas,21-01-2021,22-01-2021,AIMHOME REA,FORTUNE HOMES,W5090148
+190,Sld,N,2,Tammy,Dr,,Brampton,Bram West,"$20,74,990","$20,00,000",Detached,2-Storey,5,0,4,y,1,Built-,Cen,Gas,23-02-2021,27-02-2021,NEW VENTURE,IPRO REALTYL,W5125373
+191,Sld,,21,Tammy,Dr,,Brampton,Bram West,"$21,50,000","$21,00,000",Detached,2-Storey,4,1,5,y,1,Built-,Cen,Gas,04-01-2021,07-01-2021,CENTURION R,CENTURION REA,W5078383
+192,Sld,,22,Port Hope,Hllw,,Brampton,Bram West,"$21,99,900","$21,17,500",Detached,2-Storey,4,0,5,y,1,Built-,Cen,Gas,06-09-2020,19-01-2021,RE/MAX REAL,ROYAL LEPAGE,W4900383
+193,Sld,,11,Gladiolus,St,,Brampton,Bram West,"$22,20,000","$21,00,000",Detached,2-Storey,5,0,6,y,1,Built-,Cen,Gas,17-02-2021,28-02-2021,ROYAL ELITE,RE/MAX GOLD R,W5117446
+194,Sld,N,24,Port Hope,Hllw,,Brampton,Bram West,"$22,75,000","$22,00,000",Detached,2-Storey,5,0,5,y,1,Built-,Cen,Gas,08-02-2021,13-02-2021,RE/MAX REAL,RE/MAX REALE,W5107930
+195,Sld,,7,Tillsonbur,Ave,,Brampton,Bram West,"$22,98,000","$22,98,000",Detached,2-Storey,5,0,5,y,1,Built-,Cen,Gas,31-03-2021,02-04-2021,RES/COM REA,HOMELIFE MAPL,W5174174
+197,Sld,N ,7631,Creditview,Rd,,Brampton,Bram West    ,"$24,99,000","$23,50,000",Detached,Bungalow,3,0,3,N,1,Detach,Cen,Oil,27-11-2020,15-02-2021,REAL ESTATE,HOMELIFE/MIRA,W5001610
+198,Sld,,6, Port Hope,Hllw,,Brampton,Bram West    ,"$25,00,000","$23,55,000",Detached,2-Storey,4,2,5,y,1,Built-,Cen,Gas,28-04-2021,03-05-2021,ROYAL LEPAG,RE/MAX REAL E,W5212532
+199,Sld,N ,14,Crown Fore,Crt,,Brampton,Bram West   ,"$26,89,000","$25,75,000",Detached,2-Storey,4,1,5,y,1,Attach,Cen,Gas,17-03-2021,21-03-2021,HOMELIFE/MI,HOMELIFE/MIRA,W5156524
+200,Sld,,7895,Creditview,Rd,,Brampton,Bram West    ,"$31,89,999","$33,65,000",Detached,2-Storey,5,0,4,y,1,Attach,Cen,Gas,30-12-2020,01-01-2021,SUTTON GROU,RE/MAX REAL E,W5072238
