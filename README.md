@@ -56,8 +56,6 @@ https://soldbysingh.ca/
 5. Does the location showcase a pattern in the over asking prices?<br/>
 
 ---
-=======
-
 
 ## Communication Protocols
 - Group meetings through Zoom (link provided by Andrew)
