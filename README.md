@@ -17,9 +17,13 @@ https://soldbysingh.ca/
 
 ### Questions that we hope to answer: 
 o	Do unique features of the house (Washroom, bedroom, area, semidetached, attached) play an integral role with determining the sold price?
+
 o	Does the location, type, style, listing date and listing price play a factor of the sold price?
+
 o	When was it listed and how fast was it sold? 
+
 o	Does location dictate how long a house is listed in the market and if there are any patterns?
+
 o	Does the location showcase a pattern in the over asking prices?
 
 ---
