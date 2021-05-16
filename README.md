@@ -1,5 +1,4 @@
 # Real Estate Analysis
----
 
 ## Presentation
 
@@ -49,8 +48,6 @@ https://soldbysingh.ca/
 3. When was it listed and how fast was it sold?<br/> 
 4. Does location dictate how long a house is listed in the market and if there are any patterns?<br/>
 5. Does the location showcase a pattern in the over asking prices?<br/>
-
----
 
 ## Communication Protocols
 - Group meetings through Zoom (link provided by Andrew)
