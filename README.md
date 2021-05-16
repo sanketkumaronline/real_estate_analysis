@@ -6,9 +6,6 @@
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
 ### Reason for choosing this project:
-
-In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). 
-
 In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). We aim to build a machine learning model that would be able to predict the sold price when given the parameters.
 
 
