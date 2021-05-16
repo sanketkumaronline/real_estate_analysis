@@ -9,6 +9,9 @@ Our chosen project examines house prices in the Greater Toronto Area in the year
 
 In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). 
 
+
+We are creating a Multiple Linear Regression machine learning model to predict "Sold Price" based on type, style, features, list price, date, and some other parameters.
+
 In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). We aim to build a machine learning model that would be able to predict the sold price when given the parameters.
 
 
