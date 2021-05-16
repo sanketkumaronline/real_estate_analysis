@@ -6,7 +6,13 @@
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
 ### Reason for choosing this project:
+
+In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). 
+
+We are creating a Multiple Linear Regression machine learning model to predict "Sold Price" based on type, style, features, list price, date, and some other parameters.<br/>
+=======
 In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). We aim to build a machine learning model that would be able to predict the sold price when given the parameters.
+
 
 ### Description of the Datasource
 Our data source has 26 columns with important information such as the date the house was sold, the location, the house's characteristics (bathrooms, bedrooms, furnaces, and so on), the neighborhood, and the sold price. 
@@ -48,6 +54,10 @@ https://soldbysingh.ca/
 3. When was it listed and how fast was it sold?<br/> 
 4. Does location dictate how long a house is listed in the market and if there are any patterns?<br/>
 5. Does the location showcase a pattern in the over asking prices?<br/>
+
+---
+=======
+
 
 ## Communication Protocols
 - Group meetings through Zoom (link provided by Andrew)
