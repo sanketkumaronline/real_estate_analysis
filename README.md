@@ -9,6 +9,7 @@ Our chosen project examines house prices in the Greater Toronto Area in the year
 
 In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). 
 
+
 We are creating a Multiple Linear Regression machine learning model to predict "Sold Price" based on type, style, features, list price, date, and some other parameters.
 
 In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). We aim to build a machine learning model that would be able to predict the sold price when given the parameters.
@@ -54,6 +55,13 @@ https://soldbysingh.ca/
 3. When was it listed and how fast was it sold?<br/> 
 4. Does location dictate how long a house is listed in the market and if there are any patterns?<br/>
 5. Does the location showcase a pattern in the over asking prices?<br/>
+6. What will be the Sold Price of a house based on different features mentioned in the dataset? 
+
+### Machine Learning Model and Database
+
+We are creating a *Multiple Linear Regression* machine learning model to predict "Sold Price" based on type, style, features, list price, date, and some other parameters.
+
+The data from CSV files are stored in SQLite database. The data is imported from the SQLite database into the Jupyter Notebook containing the machine learning model.
 
 ---
 
