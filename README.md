@@ -13,7 +13,7 @@ In recent years, we have seen a lot of volatility in house price inflation over 
 Our data source has 26 columns with important information such as the date the house was sold, the location, the house's characteristics (bathrooms, bedrooms, furnaces, and so on), the neighborhood, and the sold price. 
 
 ### Data Content 
-1. # - The row number. 
+1. "#" - The row number. 
 2. LSC - The listing displays its contract status at the Last Status Change (LSC) field
 3. EC - Describes whether the property has received the Encumbrance Certificate: certificate of assurance that the property is free from any legal or monetary liability
 4. St# - The Street number 
