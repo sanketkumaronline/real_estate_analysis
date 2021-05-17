@@ -33,5 +33,5 @@ The data are pdf files which show
 
 The pdf files are converted into Excel files, cleaned up then saved as csv.  
 Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
-
+We will are using SQLite for the Database.  
 
