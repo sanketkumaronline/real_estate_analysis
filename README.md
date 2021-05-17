@@ -3,8 +3,8 @@ We are going to be using data from the 2020 -2021 Toronto Real Estate sold house
 
 
 ## Data:
-The data are pdf files which show 
-* "#" - The row number.
+The data are pdf files which show 26 rows.
+* "#" 
 * LSC - The listing displays its contract status at the Last Status Change (LSC) field
 * EC - Describes whether the property has received the Encumbrance Certificate: certificate of assurance that the property is free from any legal or monetary liability
 * St# - The Street number
