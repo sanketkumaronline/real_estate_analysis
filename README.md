@@ -1,5 +1,15 @@
 # Real Estate Analysis
 
+We are going to be using data from the 2020 -2021 Toronto Real Estate sold house listings.  We want to answer questions whether the sold listings could predict future house prices based on the house's features (number of washrooms, bedrooms, etc), location.  
+
+
+## Data:
+The data are pdf files which show 26 rows.
+The pdf files are converted into Excel files, cleaned up then saved as csv.  
+Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
+We are using SQLite for the Database.  
+
+
 ## Presentation
 
 ### Overview
@@ -96,8 +106,13 @@ The performance or accuracy of the model has been evaluated based on 3 most comm
 
 To meausre the extent of the errors, the The MAE is 5.06% of Average of y_test and the RMSE is 6.85% of Average of y_test.
 
+![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
+
 ---
 
 ## Communication Protocols
 - Group meetings through Zoom (link provided by Andrew)
 - Group meetings on Thursday evenings and one day on weekends (subject to change depending on individual schedules)
+
+## Blueprint for the Dashboard
+https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing
