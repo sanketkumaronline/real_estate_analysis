@@ -67,6 +67,8 @@ We are creating a *Multiple Linear Regression* machine learning model to predict
 
 The data from CSV files are stored in SQLite database. The data is imported from the SQLite database into the Jupyter Notebook containing the machine learning model.
 
+![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
+
 ---
 
 ## Communication Protocols
