@@ -40,7 +40,7 @@ Our data source has 26 columns with important information such as the date the h
 25. Co op Brokerage - Buyer's brokerage.
 26. MLS # - A unique number assigned to a real estate listing. 
 
-We were able to gather our data from a licensed realtor who has access to the most recent listing information. The link below directs you to the profile of the realtor:
+We were able to gather our data from a licensed realtor who has access to the most recent listing information about house sales in Brampton for last six months. The link below directs you to the profile of the realtor:
 https://soldbysingh.ca/
 
 ### Questions that we hope to answer: 
@@ -82,7 +82,7 @@ We have created machine learning model to predict "Sold Price" of a house based 
 
 Since we are trying to predict a continuous numerical output (i.e. “Sold Price” of homes) based on a number of input variables, we have selected **Multiple Linear Regression** as a machine learning model.  It will take an input of a set of factors (or test dataset), learn patterns and find relationships between datapoints to predict the value of dependent variable.  The 11 columns mentioned above are taken as feature or input variables.
 
-We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models.
+We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing alternative models can be found in *ml_models_comparison.ipynb* file.  
 
 ### Model Performance
 
