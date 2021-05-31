@@ -116,4 +116,4 @@ To measure the significance of the errors, the The MAE is 5.06% of Average of y_
 - Group meetings on Thursday evenings and one day on weekends (subject to change depending on individual schedules)
 
 ## Blueprint for the Dashboard
-https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing 
+https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing  
