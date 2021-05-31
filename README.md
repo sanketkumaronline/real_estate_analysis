@@ -46,7 +46,7 @@ Google Presentation:
 26. MLS # - A unique number assigned to a real estate listing. 
 
 We were able to gather our data from a licensed realtor who has access to the most recent listing information about house sales in Brampton for last six months. <br/>
-[Directs you to the profile of the realtor:](https://soldbysingh.ca/)
+[Directs you to the profile of the realtor](https://soldbysingh.ca/)
 
 ### Questions that we hope to answer: 
 1. Do unique features of the house (Washroom, bedroom, area, semidetached, attached) play an integral role with determining the sold price?<br/>
