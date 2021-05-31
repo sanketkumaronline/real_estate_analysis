@@ -14,7 +14,7 @@ We are using SQLite for the Database.
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
 
-Below is the link to the Google Presentation: <\br>
+Google Presentation: 
 [Link To Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRuwZSA81H4OhSnRKrtkMcpR9kmHeZdXy7A9sMxC_RHTJ8gHoP2ZCp5lsE7Z8z5Z1nAENPosdT-gUwe/pub?start=false&loop=false&delayms=3000)
 
 ### Data Content 
@@ -45,8 +45,8 @@ Below is the link to the Google Presentation: <\br>
 25. Co op Brokerage - Buyer's brokerage.
 26. MLS # - A unique number assigned to a real estate listing. 
 
-We were able to gather our data from a licensed realtor who has access to the most recent listing information about house sales in Brampton for last six months. The link below directs you to the profile of the realtor:
-https://soldbysingh.ca/
+We were able to gather our data from a licensed realtor who has access to the most recent listing information about house sales in Brampton for last six months. <br/>
+[Directs you to the profile of the realtor:](https://soldbysingh.ca/)
 
 ### Questions that we hope to answer: 
 1. Do unique features of the house (Washroom, bedroom, area, semidetached, attached) play an integral role with determining the sold price?<br/>
