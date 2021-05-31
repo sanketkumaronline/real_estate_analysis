@@ -8,14 +8,18 @@ The pdf files are converted into Excel files, cleaned up then saved as csv.
 Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
 We are using SQLite for the Database.  
 
-
 ## Presentation
 
 ### Overview
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
 Below is the link to the Google Presentation: 
+
 https://docs.google.com/presentation/d/18zoa9e-XM6T4zkNldignEfLlJQlyv5hIjZ_TES3dOhg/edit#slide=id.ga8cc62eee0_9_114
+
+Link to Data Visualization on Tableau:
+
+https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit#slide=id.p
 
 ### Data Content 
 1. "#" - The row number. 
