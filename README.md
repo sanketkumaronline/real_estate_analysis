@@ -2,12 +2,6 @@
 
 We are going to be using data from the 2020 -2021 Toronto Real Estate sold house listings.  We want to answer questions whether the sold listings could predict future house prices based on the house's features (number of washrooms, bedrooms, etc), location.  
 
-## Data:
-The data are pdf files which show 26 rows.
-The pdf files are converted into Excel files, cleaned up then saved as csv.  
-Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
-We are using SQLite for the Database.  
-
 ## Presentation
 ![download](https://user-images.githubusercontent.com/64053195/120244509-6269f380-c238-11eb-9e8c-24b12cf66f21.gif)
 
@@ -16,6 +10,12 @@ Our chosen project examines house prices in the Greater Toronto Area in the year
 
 Google Presentation: 
 [Link To Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRuwZSA81H4OhSnRKrtkMcpR9kmHeZdXy7A9sMxC_RHTJ8gHoP2ZCp5lsE7Z8z5Z1nAENPosdT-gUwe/pub?start=false&loop=false&delayms=3000)
+
+## Data:
+The data are pdf files which show 26 rows.
+The pdf files are converted into Excel files, cleaned up then saved as csv.  
+Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
+We are using SQLite for the Database.  
 
 ### Data Content 
 1. "#" - The row number. 
