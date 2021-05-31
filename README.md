@@ -18,14 +18,6 @@ Below is the link to the Google Presentation:
 
 https://docs.google.com/presentation/d/18zoa9e-XM6T4zkNldignEfLlJQlyv5hIjZ_TES3dOhg/edit#slide=id.ga8cc62eee0_9_114
 
-Below is the link to the Google Presentation: </br>
-https://docs.google.com/presentation/d/18zoa9e-XM6T4zkNldignEfLlJQlyv5hIjZ_TES3dOhg/edit#slide=id.ga8cc62eee0_9_114 </br>
-
-Tableau Presentation </br>
-
-https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit#slide=id.p
-
-
 Link to Data Visualization on Tableau:
 
 https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit#slide=id.p
