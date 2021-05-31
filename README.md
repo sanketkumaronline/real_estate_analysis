@@ -92,7 +92,7 @@ We have created machine learning model to predict "Sold Price" of a house based 
 
 Since we are trying to predict a continuous numerical output (i.e. “Sold Price” of homes) based on a number of input variables, we have selected **Multiple Linear Regression** as a machine learning model.  It will take an input of a set of factors (or test dataset), learn patterns and find relationships between datapoints to predict the value of dependent variable.  The 11 columns mentioned above are taken as feature or input variables.
 
-We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing alternative models can be found in *ml_models_comparison.ipynb* file.  
+We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing above mentioned alternative models can be found in *ml_models_comparison.ipynb* file.  
 
 ### Model Performance
 
@@ -104,7 +104,7 @@ The performance or accuracy of the model has been evaluated based on 3 most comm
 
 **Root Mean Squared Error (RMSE):** It is the mean of the squared errors. The lower the RMSE value, more accurate the model is. The RMSE value for the model is 69723.40. 
 
-To measure the significance of the errors, the The MAE is 5.06% of Average of y_test and the RMSE is 6.85% of Average of y_test.
+To measure the significance of the errors, the The MAE is 5.06% of Average of y_test values and the RMSE is 6.85% of Average of y_test values.
 
 
 ![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
