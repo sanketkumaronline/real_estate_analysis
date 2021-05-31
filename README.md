@@ -104,7 +104,8 @@ The performance or accuracy of the model has been evaluated based on 3 most comm
 
 **Root Mean Squared Error (RMSE):** It is the mean of the squared errors. The lower the RMSE value, more accurate the model is. The RMSE value for the model is 69723.40. 
 
-To meausre the extent of the errors, the The MAE is 5.06% of Average of y_test and the RMSE is 6.85% of Average of y_test.
+To measure the significance of the errors, the The MAE is 5.06% of Average of y_test values and the RMSE is 6.85% of Average of y_test values.
+
 
 ![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
