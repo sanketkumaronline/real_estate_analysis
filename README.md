@@ -2,7 +2,6 @@
 
 We are going to be using data from the 2020 -2021 Toronto Real Estate sold house listings.  We want to answer questions whether the sold listings could predict future house prices based on the house's features (number of washrooms, bedrooms, etc), location.  
 
-
 ## Data:
 The data are pdf files which show 26 rows.
 The pdf files are converted into Excel files, cleaned up then saved as csv.  
@@ -15,12 +14,8 @@ We are using SQLite for the Database.
 ### Overview
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
-### Reason for choosing this project:
-In recent years, we have seen a lot of volatility in house price inflation over a short period of time. We decided to dig deeper into this topic to learn more about how the housing market works in terms of location, type, style, and house features (number of washrooms, bedrooms, etc.). We aim to build a machine learning model that would be able to predict the sold price when given the parameters.
-
-
-### Description of the Datasource
-Our data source has 26 columns with important information such as the date the house was sold, the location, the house's characteristics (bathrooms, bedrooms, furnaces, and so on), the neighborhood, and the sold price. 
+Below is the link to the Google Presentation: 
+https://docs.google.com/presentation/d/18zoa9e-XM6T4zkNldignEfLlJQlyv5hIjZ_TES3dOhg/edit#slide=id.ga8cc62eee0_9_114
 
 ### Data Content 
 1. "#" - The row number. 
