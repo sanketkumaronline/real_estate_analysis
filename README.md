@@ -14,7 +14,7 @@ We are using SQLite for the Database.
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
 
-Below is the link to the Google Presentation: 
+Below is the link to the Google Presentation: <\br>
 [Link To Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRuwZSA81H4OhSnRKrtkMcpR9kmHeZdXy7A9sMxC_RHTJ8gHoP2ZCp5lsE7Z8z5Z1nAENPosdT-gUwe/pub?start=false&loop=false&delayms=3000)
 
 ### Data Content 
@@ -111,4 +111,4 @@ To measure the significance of the errors, the The MAE is 5.06% of Average of y_
 - Group meetings on Thursday evenings and one day on weekends (subject to change depending on individual schedules)
 
 ## Blueprint for the Dashboard
-https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing  
+[Link to Blueprint of the Dashboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)  
