@@ -9,10 +9,10 @@ Multiple Linear Regression model will be used to predict the future price of the
 We are using SQLite for the Database.  
 
 ## Presentation
+![download](https://user-images.githubusercontent.com/64053195/120244509-6269f380-c238-11eb-9e8c-24b12cf66f21.gif)
 
 ### Overview
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
-
 
 Google Presentation: 
 [Link To Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRuwZSA81H4OhSnRKrtkMcpR9kmHeZdXy7A9sMxC_RHTJ8gHoP2ZCp5lsE7Z8z5Z1nAENPosdT-gUwe/pub?start=false&loop=false&delayms=3000)
