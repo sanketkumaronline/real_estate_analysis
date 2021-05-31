@@ -28,7 +28,7 @@ Our data source has 26 columns with important information such as the date the h
 3. EC - Describes whether the property has received the Encumbrance Certificate: certificate of assurance that the property is free from any legal or monetary liability
 4. St# - The Street number 
 5. Street name - The name of the street.
-6. Abbr - Abbreviation of Street type.
+6. Abbr - Abbreviation of Street type. 
 7. Dir - Direction (North, South, East and West). 
 8. Municipality - The name of the city in which the property resides in. 
 9. Community - The name of the locality on which the property resides within a given municipality.
@@ -116,4 +116,4 @@ To measure the significance of the errors, the The MAE is 5.06% of Average of y_
 - Group meetings on Thursday evenings and one day on weekends (subject to change depending on individual schedules)
 
 ## Blueprint for the Dashboard
-https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing
+https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing 
