@@ -2,25 +2,20 @@
 
 We are going to be using data from the 2020 -2021 Toronto Real Estate sold house listings.  We want to answer questions whether the sold listings could predict future house prices based on the house's features (number of washrooms, bedrooms, etc), location.  
 
+## Presentation
+![download](https://user-images.githubusercontent.com/64053195/120244509-6269f380-c238-11eb-9e8c-24b12cf66f21.gif)
+
+### Overview
+Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
+
+Google Presentation: 
+[Link To Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRuwZSA81H4OhSnRKrtkMcpR9kmHeZdXy7A9sMxC_RHTJ8gHoP2ZCp5lsE7Z8z5Z1nAENPosdT-gUwe/pub?start=false&loop=false&delayms=3000)
+
 ## Data:
 The data are pdf files which show 26 rows.
 The pdf files are converted into Excel files, cleaned up then saved as csv.  
 Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
 We are using SQLite for the Database.  
-
-## Presentation
-
-### Overview
-Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
-
-
-Below is the link to the Google Presentation: 
-
-https://docs.google.com/presentation/d/18zoa9e-XM6T4zkNldignEfLlJQlyv5hIjZ_TES3dOhg/edit#slide=id.ga8cc62eee0_9_114
-
-Link to Data Visualization on Tableau:
-
-https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit#slide=id.p
 
 ### Data Content 
 1. "#" - The row number. 
@@ -50,8 +45,8 @@ https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQB
 25. Co op Brokerage - Buyer's brokerage.
 26. MLS # - A unique number assigned to a real estate listing. 
 
-We were able to gather our data from a licensed realtor who has access to the most recent listing information about house sales in Brampton for last six months. The link below directs you to the profile of the realtor:
-https://soldbysingh.ca/
+We were able to gather our data from a licensed realtor who has access to the most recent listing information about house sales in Brampton for last six months. <br/>
+[Directs you to the profile of the realtor](https://soldbysingh.ca/)
 
 ### Questions that we hope to answer: 
 1. Do unique features of the house (Washroom, bedroom, area, semidetached, attached) play an integral role with determining the sold price?<br/>
@@ -116,4 +111,4 @@ To measure the significance of the errors, the The MAE is 5.06% of Average of y_
 - Group meetings on Thursday evenings and one day on weekends (subject to change depending on individual schedules)
 
 ## Blueprint for the Dashboard
-https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing  
+[Link to Blueprint of the Dashboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)  
