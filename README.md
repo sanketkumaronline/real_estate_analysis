@@ -87,7 +87,7 @@ We have created machine learning model to predict "Sold Price" of a house based 
 
 Since we are trying to predict a continuous numerical output (i.e. “Sold Price” of homes) based on a number of input variables, we have selected **Multiple Linear Regression** as a machine learning model.  It will take an input of a set of factors (or test dataset), learn patterns and find relationships between datapoints to predict the value of dependent variable.  The 11 columns mentioned above are taken as feature or input variables.
 
-We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing above mentioned alternative models can be found in *ml_models_comparison.ipynb* file.  
+We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing above mentioned alternative models can be found in [ml_models_comparison.ipynb](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/ml_models_comparison.ipynb)  
 
 ### Model Performance
 
