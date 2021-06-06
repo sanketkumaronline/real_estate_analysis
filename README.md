@@ -115,5 +115,9 @@ https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQB
 [Link to Blueprint of the Dashboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)  
 
 ## Tableau 
-Tableau was
+Images from the initial analysis
+
+This image shows the different house type( Att/Row/Tw, Detached, Link, Semi-Detac) with the average house price (blue bar graph), it also shows the difference in price (the list price of the house and the actual sold price (orange line)
+![](Images/PriceDiffType.PNG) 
+
 
