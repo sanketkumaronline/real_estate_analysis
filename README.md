@@ -134,3 +134,7 @@ This pie chart displays the 5 different communities this data represents.  Each 
 
 This bar graph shows the top ten real estate brokerage firms and their number of sold properties
 ![](Images/TopTen.PNG)
+
+
+This box-whiskers-plot shows the data distrbution for the sold price according to the bedrooms, washrooms or kitchen which can be selected from a drop down menu. 
+![](Images/WhiskersPlot.PNG)
