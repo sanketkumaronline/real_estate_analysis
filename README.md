@@ -138,3 +138,7 @@ This bar graph shows the top ten real estate brokerage firms and their number of
 
 This box-whiskers-plot shows the data distrbution for the sold price according to the bedrooms, washrooms or kitchen which can be selected from a drop down menu. 
 ![](Images/WhiskersPlot.PNG)
+
+
+This area charts displays the average number of days a property was listed for (Contract Date Signed - the Sold Date) according to diffent months
+![](Images/AvgDays.PNG)
