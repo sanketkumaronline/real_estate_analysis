@@ -108,11 +108,8 @@ To measure the significance of the errors, the The MAE is 5.06% of Average of y_
 
 
 ### Blueprint for the dashboard
+[Link to Dashboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)
 
-https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing
-
-## Blueprint for the Dashboard
-[Link to Blueprint of the Dashboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)  
 
 ## Tableau 
 Images from the initial analysis
