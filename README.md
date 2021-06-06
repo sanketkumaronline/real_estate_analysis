@@ -111,7 +111,7 @@ To measure the significance of the errors, the The MAE is 5.06% of Average of y_
 [Link to Storyboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)
 
 
-## Tableau 
+### Tableau 
 Images from the initial analysis
 
 This bar graph shows the different house types( Att/Row/Tw, Detached, Link, Semi-Detac) with the average house price (blue bar graph), it also shows the difference in price from the  ([Sold Price]-[List Price]) (orange line)
@@ -142,3 +142,10 @@ This box-whiskers-plot shows the data distrbution for the sold price according t
 
 This area charts displays the average number of days a property was listed for (Contract Date Signed - the Sold Date) according to diffent months
 ![](Images/AvgDays.PNG)
+
+### Link to Tableau Dashboard
+
+Dashboard 1 
+Selecting one of the pie chart slices selects an area which then selects the average sold house price according to bedroom and washroom.  The area chart displays the average days a property lasted on the market.  
+
+[Link to Dashboard 1](https://public.tableau.com/views/Final1_16229308570450/DashboardDaysAvgPrice?:language=en-US&:display_count=n&:origin=viz_share_link)
