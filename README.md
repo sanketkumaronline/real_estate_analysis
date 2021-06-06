@@ -130,3 +130,7 @@ This treemap shows the number of bedrooms and the number of washrooms with the a
 
 This pie chart displays the 5 different communities this data represents.  Each community displays the number of sold properities and the average sold house price.  
 ![](Images/Communities.PNG)
+
+
+This bar graph shows the top ten real estate brokerage firms and their number of sold properties
+![](Images/TopTen.PNG)
