@@ -114,7 +114,12 @@ To measure the significance of the errors, the The MAE is 5.06% of Average of y_
 ## Tableau 
 Images from the initial analysis
 
-This image shows the different house type( Att/Row/Tw, Detached, Link, Semi-Detac) with the average house price (blue bar graph), it also shows the difference in price (the list price of the house and the actual sold price (orange line)
+This image shows the different house types( Att/Row/Tw, Detached, Link, Semi-Detac) with the average house price (blue bar graph), it also shows the difference in price from the  ([Sold Price]-[List Price]) (orange line)
 ![](Images/PriceDiffType.PNG) 
+
+
+This image shows the different house styles(Bungaloft, Sidesplit, Bungalow, Bungalow-R, 1 1/2 Storey, 2 Storey, 2 1/2 Storey, 3 Storey) with the average house price (blue bar graph), it also shows the difference in price from the  ([Sold Price]-[List Price]) (orange line)
+![](Images/PriceDiffStyle.PNG)
+
 
 
