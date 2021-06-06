@@ -122,4 +122,5 @@ This image shows the different house styles(Bungaloft, Sidesplit, Bungalow, Bung
 ![](Images/PriceDiffStyle.PNG)
 
 
-
+This image shows the number of bedrooms and the number of washrooms with the average sold price 
+![](Images/BedWashAvgPrice.PNG)
