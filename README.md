@@ -3,7 +3,7 @@
 We are going to be using data from the 2020 -2021 Toronto Real Estate sold house listings.  We want to answer questions whether the sold listings could predict future house prices based on the house's features (number of washrooms, bedrooms, etc), location.  
 
 ## Presentation
-![download (1)](https://user-images.githubusercontent.com/64053195/120848529-e4ad2d00-c542-11eb-8301-7facaaa85467.gif)
+![download (2)](https://user-images.githubusercontent.com/64053195/120941363-642c2f00-c6f0-11eb-95a9-020c6e3dd940.gif)
 
 ### Overview
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
