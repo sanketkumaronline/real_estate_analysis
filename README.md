@@ -123,6 +123,8 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 
 ![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
+![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
+
 ---
 
 
@@ -177,4 +179,5 @@ Selecting one of the pie chart slices selects an area of the city which then dis
 Dashboard 3
 
 Selecting one of the pie chart slices selects an area of the city which then displays in the bar graph the top ten real estate brokerage firms with the number of sold properties. The box-whiskers-plot shows the data distrbution for the sold price according to the bedrooms, washrooms or kitchen which can be selected from a drop down menu. 
+
 * [Link to Dashboard 3](https://public.tableau.com/views/Final1_16229308570450/DashboardRealtorWhiskerPlot?:language=en-US&:display_count=n&:origin=viz_share_link)
