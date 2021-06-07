@@ -146,6 +146,16 @@ This area charts displays the average number of days a property was listed for (
 ### Link to Tableau Dashboard
 
 Dashboard 1 
-Selecting one of the pie chart slices selects an area which then selects the average sold house price according to bedroom and washroom.  The area chart displays the average days a property lasted on the market.  
 
+Selecting one of the pie chart slices selects an area of the city which then displays the average sold house price according to bedroom and washroom.  The area chart displays the average days a property lasted on the market.  
 [Link to Dashboard 1](https://public.tableau.com/views/Final1_16229308570450/DashboardDaysAvgPrice?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Dashboard 2 
+
+Selecting one of the pie chart slices selects an area of the city which then displays in the bar graphs with the average sold price (according to house type, and house style) and the  difference in price from the ([Sold Price]-[List Price]) (orange line)
+[Link to Dashboard 2](https://public.tableau.com/views/Final1_16229308570450/DashboardAvgDiff?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Dashboard 3
+
+Selecting one of the pie chart slices selects an area of the city which then displays in the bar graph the top ten real estate brokerage firms with the number of sold properties. The box-whiskers-plot shows the data distrbution for the sold price according to the bedrooms, washrooms or kitchen which can be selected from a drop down menu. 
+[Link to Dashboard 3](https://public.tableau.com/views/Final1_16229308570450/DashboardRealtorWhiskerPlot?:language=en-US&:display_count=n&:origin=viz_share_link)
