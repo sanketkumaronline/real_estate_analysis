@@ -113,7 +113,7 @@ The performance or accuracy of the model has been evaluated based on 3 most comm
 To measure the significance of the errors, the The MAE is 4.98% of Average of y_test values and the RMSE is 6.63% of Average of y_test values.
 
 *Actual Vs Predicted Output Graph*
-![actual vs predicted graph](./Images/graph.PNG)
+![actual vs predicted graph](./Images/graph.png)
 
 *Actual Vs Predicted Output Comparison*
 ![actual and predicted comparison](./Images/output_comparison.PNG)
