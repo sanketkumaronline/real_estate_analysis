@@ -3,7 +3,7 @@
 We are going to be using data from the 2020 -2021 Toronto Real Estate sold house listings.  We want to answer questions whether the sold listings could predict future house prices based on the house's features (number of washrooms, bedrooms, etc), location.  
 
 ## Presentation
-![download](https://user-images.githubusercontent.com/64053195/120244509-6269f380-c238-11eb-9e8c-24b12cf66f21.gif)
+![download (2)](https://user-images.githubusercontent.com/64053195/120941363-642c2f00-c6f0-11eb-95a9-020c6e3dd940.gif)
 
 ### Overview
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
@@ -75,40 +75,112 @@ We have created machine learning model to predict "Sold Price" of a house based 
 `"List Price", "Sold Price", "Type”, “Style", "Br", "+", "Wr", "Fam", "Kit", "Garage Type", "Contract Date", "Sold Date".`
 3.	The following columns are converted into Integer data type from the Object type: "List Price", "Sold Price", "Contract Date", and "Sold Date".
 4.	The four columns with Object datatype ("Type", "Style", "Fam", "Garage Type") are encoded into numerical values using **OneHotEncoder**. All these have less than or equal to 10 unique values. Binning was performed on "Style" which had 10 unique values, but it imporved the accuracy slightly.
-5.	After the data is split into features and target datasets, the feature datasets (both training and testing) are scaled using **StandardScaler**. Please note that it did not improve the performance of the machine learning model significantly in current dataset. However, it may be beneficial of much larger test values for "List Price" and "Sold Price" are used with this model later.
 
 ### Splitting into Training and Testing Datasets
 
 1.	The dataset is split into training and testing datasets using **train_test_split()** function. The training datasets are created for features (X_train, X_test) and targets (y_train, y_test)	
 2.	The **random_state** parameter has been passed as an integer (5), which means the results are reproducible.  
-3.	We passed **train_size** parameters the value 0.8 and **test size** the value 0.2. It means 70% of original dataset will be used in the training dataset and remaining 30% as test dataset.
+3.	We passed **train_size** parameters the value 0.8 and **test_size** the value 0.2. It means 70% of original dataset will be used in the training dataset and remaining 30% as test dataset.
 
 ### Selection of Machine Learning Model
 
 Since we are trying to predict a continuous numerical output (i.e. “Sold Price” of homes) based on a number of input variables, we have selected **Multiple Linear Regression** as a machine learning model.  It will take an input of a set of factors (or test dataset), learn patterns and find relationships between datapoints to predict the value of dependent variable.  The 11 columns mentioned above are taken as feature or input variables.
 
-We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing above mentioned alternative models can be found in *ml_models_comparison.ipynb* file.  
+We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing above mentioned alternative models can be found in *ml_models_comparison.ipynb* file. 
+
+### Changes Made After Segment 2
+
+* After initially testing the model and doing some initial analysis based on 11 features, the "Sold Date" was also dropped as ultimate goal was to predict Sold Price of house in market to help prospective buyers. So now we have 10 input features. 
+* The scaling of input data with StandardScaler() is no longer done. As mentioned in previous segment, it did not improve the model accuracy. Therefore, it was removed to reduce coding complexity and execution time.
+* Binning for the values in "Style" column was removed.
+
+These changes had very little impact on the model performance. The R2 score dropped by 0.07%, MAE by 0.2%, and RMSE by 0.75%.  
+
+### Model Training
+
+There are a total of 1193 records/rows in the dataset. The train_size and test_size was initially set at 0.8 and 0.2 respectively. However, this has been changed to 0.9 and 0.1 to include some more data in the training part. It means the linear regression model is now trained on about 1075 rows with 10 feature variables and 1 target variable. 
+=======
+
 
 ### Model Performance
 
 The performance or accuracy of the model has been evaluated based on 3 most commonly used evaluation metrics used for linear regression models.
 
-**Coefficient of Determination (R2) :** It explains to what extent the variance of one variable explains the variance of the second variable. It usually has a value of 0 to 1. The closer the value is to 1, better the fit. The R2 value for this model comes out to be 0.95. It means about 95% of the observed variation can be explained by the model’s inputs.
+**Coefficient of Determination (R2) :** It explains to what extent the variance of one variable explains the variance of the second variable. It usually has a value of 0 to 1. The closer the value is to 1, better the fit. The R2 value for this model comes out to be 0.9412. It means about 95% of the observed variation can be explained by the model’s inputs.
 
-**Mean Absolute Error (MAE) :** It is an arithmetic average of the absolute errors. It has same unit as original data. The lower the MAE value, more accurate the model is. The MAE for this model is 51510.07. 
+**Mean Absolute Error (MAE) :** It is an arithmetic average of the absolute errors. It has same unit as original data. The lower the MAE value, more accurate the model is. The MAE for this model is 50207.32. 
 
-**Root Mean Squared Error (RMSE):** It is the mean of the squared errors. The lower the RMSE value, more accurate the model is. The RMSE value for the model is 69723.40. 
+**Root Mean Squared Error (RMSE) :** It is the mean of the squared errors. The lower the RMSE value, more accurate the model is. The RMSE value for the model is 66918.91. 
 
-To measure the significance of the errors, the The MAE is 5.06% of Average of y_test values and the RMSE is 6.85% of Average of y_test values.
+To measure the significance of the errors, the The MAE is 4.98% of Average of y_test values and the RMSE is 6.63% of Average of y_test values.
 
+*Actual Vs Predicted Output Graph*
+![actual vs predicted graph](./Images/graph.PNG)
+
+*Actual Vs Predicted Output Comparison*
+![actual and predicted comparison](./Images/output_comparison.PNG)
+
+---
+### Entity Relationship Diagram
+
+![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
 ![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
 ---
 
-## Communication Protocols
-- Group meetings through Zoom (link provided by Andrew)
-- Group meetings on Thursday evenings and one day on weekends (subject to change depending on individual schedules)
 
-## Blueprint for the Dashboard
-[Link to Blueprint of the Dashboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)  
+### Blueprint for the dashboard
+[Link to Storyboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)
+
+
+### Tableau 
+Images from the initial analysis
+
+This bar graph shows the different house types( Att/Row/Tw, Detached, Link, Semi-Detac) with the average house price (blue bar graph), it also shows the difference in price from the  ([Sold Price]-[List Price]) (orange line)
+![](Images/PriceDiffType.PNG) 
+
+
+This bar graph shows the different house styles(Bungaloft, Sidesplit, Bungalow, Bungalow-R, 1 1/2 Storey, 2 Storey, 2 1/2 Storey, 3 Storey) with the average house price (blue bar graph), it also shows the difference in price from the  ([Sold Price]-[List Price]) (orange line)
+![](Images/PriceDiffStyle.PNG)
+
+
+
+This treemap shows the number of bedrooms and the number of washrooms with the average sold price 
+![](Images/BedWashAvgPrice.PNG)
+
+
+
+This pie chart displays the 5 different communities this data represents.  Each community displays the number of sold properities and the average sold house price.  
+![](Images/Communities.PNG)
+
+
+This bar graph shows the top ten real estate brokerage firms and their number of sold properties
+![](Images/TopTen.PNG)
+
+
+This box-whiskers-plot shows the data distrbution for the sold price according to the bedrooms, washrooms or kitchen which can be selected from a drop down menu. 
+![](Images/WhiskersPlot.PNG)
+
+
+This area charts displays the average number of days a property was listed for (Contract Date Signed - the Sold Date) according to diffent months
+![](Images/AvgDays.PNG)
+
+### Link to Tableau Dashboard
+
+Dashboard 1 
+
+Selecting one of the pie chart slices selects an area of the city which then displays the average sold house price according to bedroom and washroom.  The area chart displays the average days a property lasted on the market.  
+* [Link to Dashboard 1](https://public.tableau.com/shared/K8Y47Z48K?:display_count=n&:origin=viz_share_link)
+
+Dashboard 2 
+
+Selecting one of the pie chart slices selects an area of the city which then displays in the bar graphs with the average sold price (according to house type, and house style) and the  difference in price from the ([Sold Price]-[List Price]) (orange line)
+* [Link to Dashboard 2](https://public.tableau.com/views/Final1_16229308570450/DashboardAvgDiff?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Dashboard 3
+
+Selecting one of the pie chart slices selects an area of the city which then displays in the bar graph the top ten real estate brokerage firms with the number of sold properties. The box-whiskers-plot shows the data distrbution for the sold price according to the bedrooms, washrooms or kitchen which can be selected from a drop down menu. 
+
+* [Link to Dashboard 3](https://public.tableau.com/views/Final1_16229308570450/DashboardRealtorWhiskerPlot?:language=en-US&:display_count=n&:origin=viz_share_link)
+
