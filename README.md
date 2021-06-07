@@ -99,6 +99,8 @@ These changes had very little impact on the model performance. The R2 score drop
 ### Model Training
 
 There are a total of 1193 records/rows in the dataset. The train_size and test_size was initially set at 0.8 and 0.2 respectively. However, this has been changed to 0.9 and 0.1 to include some more data in the training part. It means the linear regression model is now trained on about 1075 rows with 10 feature variables and 1 target variable. 
+=======
+
 
 ### Model Performance
 
@@ -120,6 +122,8 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 
 ---
 ### Entity Relationship Diagram
+
+![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
 ![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
@@ -177,4 +181,6 @@ Selecting one of the pie chart slices selects an area of the city which then dis
 Dashboard 3
 
 Selecting one of the pie chart slices selects an area of the city which then displays in the bar graph the top ten real estate brokerage firms with the number of sold properties. The box-whiskers-plot shows the data distrbution for the sold price according to the bedrooms, washrooms or kitchen which can be selected from a drop down menu. 
+
 * [Link to Dashboard 3](https://public.tableau.com/views/Final1_16229308570450/DashboardRealtorWhiskerPlot?:language=en-US&:display_count=n&:origin=viz_share_link)
+
