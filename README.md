@@ -99,7 +99,6 @@ These changes had very little impact on the model performance. The R2 score drop
 ### Model Training
 
 There are a total of 1193 records/rows in the dataset. The train_size and test_size was initially set at 0.8 and 0.2 respectively. However, this has been changed to 0.9 and 0.1 to include some more data in the training part. It means the linear regression model is now trained on about 1075 rows with 10 feature variables and 1 target variable. 
-=======
 
 
 ### Model Performance
@@ -115,9 +114,11 @@ The performance or accuracy of the model has been evaluated based on 3 most comm
 To measure the significance of the errors, the The MAE is 4.98% of Average of y_test values and the RMSE is 6.63% of Average of y_test values.
 
 *Actual Vs Predicted Output Graph*
-![actual vs predicted graph](./Images/graph.PNG)
+
+![actual vs predicted graph](./Images/graph.png)
 
 *Actual Vs Predicted Output Comparison*
+
 ![actual and predicted comparison](./Images/output_comparison.PNG)
 
 ---
@@ -125,7 +126,6 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 
 ![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
-![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
 ---
 
