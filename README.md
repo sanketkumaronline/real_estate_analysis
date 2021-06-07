@@ -126,7 +126,6 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 
 ![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
-![sold_homes_ERD](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/Images/sold_homes_ERD.png)
 
 ---
 
