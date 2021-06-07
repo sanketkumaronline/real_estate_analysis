@@ -148,7 +148,7 @@ This area charts displays the average number of days a property was listed for (
 Dashboard 1 
 
 Selecting one of the pie chart slices selects an area of the city which then displays the average sold house price according to bedroom and washroom.  The area chart displays the average days a property lasted on the market.  
-* [Link to Dashboard 1](https://public.tableau.com/views/Final1_16229308570450/DashboardDaysAvgPrice?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Link to Dashboard 1](https://public.tableau.com/shared/K8Y47Z48K?:display_count=n&:origin=viz_share_link)
 
 Dashboard 2 
 
