@@ -98,7 +98,7 @@ These changes had very little impact on the model performance. The R2 score drop
 
 ### Model Training
 
-There are a total of 1193 records/rows in the dataset. The train_size and test_size was initially set at 0.8 and 0.2 respectively. However, this has been changed to 0.9 and 0.1 to include some more data in the training part. It means the linear regression model is now trained on about 1075 rows with 10 feature variables and 1 target variable. 
+There are a total of 1193 rows in the dataset. The train_size and test_size was initially set at 0.8 and 0.2 respectively. However, this has been changed to 0.9 and 0.1 to include some more data in the training part. It means the linear regression model is now trained on about 1075 rows with 10 feature variables and 1 target variable. 
 
 ### Model Performance
 
