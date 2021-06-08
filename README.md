@@ -115,15 +115,15 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 
 *Actual Vs Predicted Output Graph*
 
-![actual vs predicted graph](./Images/graph.png)
+![Actual vs Predicted graph](./Images/graph.png)
 
 *Actual Vs Predicted Output Comparison*
 
-![actual and predicted comparison](./Images/output_comparison.PNG)
+![Actual vs Predicted comparison](./Images/output_comparison.PNG)
 
 *Machine Learning User Interface*
 
-![machine learning user interface](./Images/mlinput.PNG)
+![Machine Learning User Interface](./Images/mlinput.PNG)
 
 ---
 ### Entity Relationship Diagram
