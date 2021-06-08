@@ -11,7 +11,7 @@ Our chosen project examines house prices in the Greater Toronto Area in the year
 Google Presentation: 
 [Link To Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRuwZSA81H4OhSnRKrtkMcpR9kmHeZdXy7A9sMxC_RHTJ8gHoP2ZCp5lsE7Z8z5Z1nAENPosdT-gUwe/pub?start=false&loop=false&delayms=3000)
 
-Heroku Web App: https://homepricegta.herokuapp.com
+Heroku Web App for Project: https://homepricegta.herokuapp.com
 
 ## Data:
 The data are pdf files which show 26 rows.
