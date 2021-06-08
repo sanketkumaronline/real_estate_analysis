@@ -125,7 +125,7 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 
 *Machine Learning User Interface*
 
-![Machine Learning User Interface](./Images/mlinput.PNG)
+![Machine Learning User Interface](./Images/mlinput.png)
 
 ---
 ### Entity Relationship Diagram
