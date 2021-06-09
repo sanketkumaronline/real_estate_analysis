@@ -105,9 +105,9 @@ There are a total of 1193 records/rows in the dataset. The train_size and test_s
 
 ### Model Performance
 
-The performance or accuracy of the model has been evaluated based on 3 most commonly used evaluation metrics used for linear regression models.
+The performance or accuracy of the model has been evaluated based on 3 most commonly used evaluation metrics used for linear regression models. Given below is the performance of the model after making above mentioned changes and taking train_size as 0.9.
 
-**Coefficient of Determination (R2) :** It explains to what extent the variance of one variable explains the variance of the second variable. It usually has a value of 0 to 1. The closer the value is to 1, better the fit. The R2 value for this model comes out to be 0.9412. It means about 95% of the observed variation can be explained by the model’s inputs.
+**Coefficient of Determination (R2) :** It explains to what extent the variance of one variable explains the variance of the second variable. It usually has a value of 0 to 1. The closer the value is to 1, better the fit. The R2 value for this model comes out to be 0.9412. It means about 94% of the observed variation can be explained by the model’s inputs.
 
 **Mean Absolute Error (MAE) :** It is an arithmetic average of the absolute errors. It has same unit as original data. The lower the MAE value, more accurate the model is. The MAE for this model is 50207.32. 
 
