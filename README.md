@@ -82,13 +82,13 @@ We have created machine learning model to predict "Sold Price" of a house based 
 
 1.	The dataset is split into training and testing datasets using **train_test_split()** function. The training datasets are created for features (X_train, X_test) and targets (y_train, y_test)	
 2.	The **random_state** parameter has been passed as an integer (5), which means the results are reproducible.  
-3.	We passed **train_size** parameters the value 0.8 and **test_size** the value 0.2. It means 70% of original dataset will be used in the training dataset and remaining 30% as test dataset.
+3.	We passed **train_size** parameters the value 0.8 and **test_size** the value 0.2. It means 80% of original dataset will be used in the training dataset and remaining 20% as test dataset.
 
 ### Selection of Machine Learning Model
 
 Since we are trying to predict a continuous numerical output (i.e. “Sold Price” of homes) based on a number of input variables, we have selected **Multiple Linear Regression** as a machine learning model.  It will take an input of a set of factors (or test dataset), learn patterns and find relationships between datapoints to predict the value of dependent variable.  The 11 columns mentioned above are taken as feature or input variables.
 
-We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing above mentioned alternative models can be found in *ml_models_comparison.ipynb* file. 
+We also tested *XGBRegressor* from the XGBoost library and *Support Vector Regression (SVM)* from sklearn as alternative machine learning models. However, the perfromance was dropped significantly. Therefore, Linear Regression regression was chosen as best option out of the tested models. More details about testing above mentioned alternative models can be found in [ml_models_comparison.ipynb* file](https://github.com/AndrewTymkiv/real_estate_analysis/blob/main/ml_models_comparison.ipynb). 
 
 ### Changes Made After Segment 2
 
@@ -105,9 +105,9 @@ There are a total of 1193 records/rows in the dataset. The train_size and test_s
 
 ### Model Performance
 
-The performance or accuracy of the model has been evaluated based on 3 most commonly used evaluation metrics used for linear regression models.
+The performance or accuracy of the model has been evaluated based on 3 most commonly used evaluation metrics used for linear regression models. Given below is the performance of the model after making above mentioned changes and taking train_size as 0.9.
 
-**Coefficient of Determination (R2) :** It explains to what extent the variance of one variable explains the variance of the second variable. It usually has a value of 0 to 1. The closer the value is to 1, better the fit. The R2 value for this model comes out to be 0.9412. It means about 95% of the observed variation can be explained by the model’s inputs.
+**Coefficient of Determination (R2) :** It explains to what extent the variance of one variable explains the variance of the second variable. It usually has a value of 0 to 1. The closer the value is to 1, better the fit. The R2 value for this model comes out to be 0.9412. It means about 94% of the observed variation can be explained by the model’s inputs.
 
 **Mean Absolute Error (MAE) :** It is an arithmetic average of the absolute errors. It has same unit as original data. The lower the MAE value, more accurate the model is. The MAE for this model is 50207.32. 
 
