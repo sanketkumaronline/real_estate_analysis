@@ -59,7 +59,7 @@ We were able to gather our data from a licensed realtor who has access to the mo
 5. Does the location showcase a pattern in the over asking prices?<br/>
 6. What will be the Sold Price of a house based on different features mentioned in the dataset? 
 
-## Machine Learning Model
+## Machine Learning Model:
 
 We have created machine learning model to predict "Sold Price" of a house based on style, type, bedrooms, washrooms, and list price of a house. This can help a prospective buyer to decide how much to bid for the house. We have used Multiple Linear Regression model for this purpose. 
 
@@ -137,7 +137,7 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 ---
 
 
-### Blueprint for the dashboard
+## Dashboard
 [Link to Storyboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)
 
 
