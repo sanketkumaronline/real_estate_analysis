@@ -13,7 +13,7 @@ Our chosen project examines house prices in the Greater Toronto Area in the year
 
 **Web App for Project:** https://homepricegta.herokuapp.com
 
-## Data:
+## Data
 The data are pdf files which show 26 rows.
 The pdf files are converted into Excel files, cleaned up then saved as csv.  
 Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
@@ -59,7 +59,7 @@ We were able to gather our data from a licensed realtor who has access to the mo
 5. Does the location showcase a pattern in the over asking prices?<br/>
 6. What will be the Sold Price of a house based on different features mentioned in the dataset? 
 
-## Machine Learning Model:
+## Machine Learning Model
 
 We have created machine learning model to predict "Sold Price" of a house based on style, type, bedrooms, washrooms, and list price of a house. This can help a prospective buyer to decide how much to bid for the house. We have used Multiple Linear Regression model for this purpose. 
 
