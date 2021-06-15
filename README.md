@@ -8,12 +8,12 @@ We are going to be using data from the 2020 -2021 Toronto Real Estate sold house
 ### Overview
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
-Google Presentation: 
+**Google Presentation:** 
 [Link To Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRuwZSA81H4OhSnRKrtkMcpR9kmHeZdXy7A9sMxC_RHTJ8gHoP2ZCp5lsE7Z8z5Z1nAENPosdT-gUwe/pub?start=false&loop=false&delayms=3000)
 
-Heroku Web App for Project: https://homepricegta.herokuapp.com
+**Web App for Project:** https://homepricegta.herokuapp.com
 
-## Data:
+## Data
 The data are pdf files which show 26 rows.
 The pdf files are converted into Excel files, cleaned up then saved as csv.  
 Multiple Linear Regression model will be used to predict the future price of the house based on the house features listed above.
@@ -47,6 +47,7 @@ We are using SQLite for the Database.
 25. Co op Brokerage - Buyer's brokerage.
 26. MLS # - A unique number assigned to a real estate listing. 
 
+### Data Source
 We were able to gather our data from a licensed realtor who has access to the most recent listing information about house sales in Brampton for last six months. <br/>
 [Directs you to the profile of the realtor](https://soldbysingh.ca/)
 
@@ -136,7 +137,7 @@ To measure the significance of the errors, the The MAE is 4.98% of Average of y_
 ---
 
 
-### Blueprint for the dashboard
+## Dashboard
 [Link to Storyboard](https://docs.google.com/presentation/d/1_tKWkIlpeKGwXy4Q99mPNuYnnJdzkXBzRgX7FtQBHkM/edit?usp=sharing)
 
 
@@ -190,3 +191,10 @@ By selecting one of the pie chart slices, a specific area of the city is selecte
 
 * [Link to Dashboard 3](https://public.tableau.com/views/Final1_16229308570450/DashboardRealtorWhiskerPlot?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+------
+### Team
+
+* Agnieszka Blanchard: https://github.com/agnieszka-web
+* Andrew Tymkiv: https://github.com/AndrewTymkiv
+* Sanket Kumar: https://github.com/sanketkumaronline
+* Yashitha Bhuvanagiri: https://github.com/yashithab  
